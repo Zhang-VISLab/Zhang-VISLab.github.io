@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ziming Zhang"
+title                    : "Ziming Zhang: Vision, Intelligence, and System Laboratory"
 title_separator          : "-"
 name                     : &name "Ziming Zhang"
 description              : &description "personal description"
