@@ -9,7 +9,12 @@ redirect_from:
 ---
 
 
-Vision, Intelligence, and System Laboratory (VISLab) in the Electrical and Computer Engineering (ECE) Department at Worcester Polytechnic Institute (WPI) is led by Prof. Ziming Zhang. The aim of the lab is to engage in the state-of-the-art research into the mathematical foundation of computer vision (CV) and artificial Intelligence (AI), as well as the hardware design and engineering that meets the needs of society. Current research focus is Learning for TEAM-Efficiency (i.e. training, inference, data, memory) with applications of LiDAR in autonomous driving and time-series data analysis. Typical works include, but not limited to, deep learning, zero-shot learning, 2D/3D object recognition/detection/segmentation, video surveillance, point cloud processing, IoT.
+**Vision, Intelligence, and System Laboratory (VISLab)** in the Electrical and Computer Engineering (ECE) Department at Worcester Polytechnic Institute (WPI) is led by **Prof. Ziming Zhang**. The aim of the lab is to engage in the state-of-the-art research into the mathematical foundation of computer vision (CV) and artificial Intelligence (AI), as well as the hardware design and engineering that meets the needs of society. Current research focus is **TEAM-Efficient Learning**, i.e. 
+* *Training Efficiency*:
+* *Inference Efficiency*:
+* *Data Efficiency*:
+* *Memory Efficiency*:
+training, inference, data, memory) with applications of LiDAR in autonomous driving and time-series data analysis. Typical works include, but not limited to, deep learning, zero-shot learning, 2D/3D object recognition/detection/segmentation, video surveillance, point cloud processing, IoT.
 
 
 
