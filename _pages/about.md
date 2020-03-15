@@ -26,7 +26,7 @@ Dr. Ziming Zhang is an assistant professor at Worcester Polytechnic Institute. B
 * 01/31/2020. I gave a talk at United Imaging Intelligence (UII), Cambridge, MA.
 * 01/15/2020. I gave a talk at Wayfair, Boston, MA.
 * 12/19/2019. One paper was accepted to ICLR 2020 as poster.
-* 11/22/2019. Two proposals were funded by GDMS’s University RFP program.
+* 11/22/2019. **Two proposals were funded by GDMS’s University RFP program.**
 * 10/01/2019. Joined in WPI as assistant professor. 
 
 # Funding Sponsors 
