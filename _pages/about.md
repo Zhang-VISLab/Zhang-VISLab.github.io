@@ -30,3 +30,7 @@ Dr. Ziming Zhang is an assistant professor at Worcester Polytechnic Institute. B
 * 10/01/2019. Joined in WPI as assistant professor. 
 
 # Funding Sponsors 
+We sincerely appreciate the support from all the following sponsors.
+<p align="left">
+  <img src="https://zhang-vislab.github.io/images/GDMS-logo-img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
