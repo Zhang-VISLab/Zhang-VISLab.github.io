@@ -32,5 +32,5 @@ Dr. Ziming Zhang is an assistant professor at Worcester Polytechnic Institute. B
 # Funding Sponsors 
 We sincerely appreciate the support from all the following sponsors.
 <p align="left">  
-  ![](https://zhang-vislab.github.io/images/GDMS-logo-img.png&s=200)
+  <img src="https://zhang-vislab.github.io/images/GDMS-logo-img.png?raw=true" alt="portfolio_view" style="width: 450px;"/> 
 </p>
