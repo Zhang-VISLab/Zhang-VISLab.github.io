@@ -20,12 +20,12 @@ Dr. Ziming Zhang is an assistant professor at Worcester Polytechnic Institute. B
 
 
 # Recent News
-* 03/13/2020. One paper was accepted to CVPR 2020 as oral.
+* 03/13/2020. One paper was accepted to **CVPR 2020** as oral.
 * 03/05/2020. Our workshop [Vision Applications & Solutions to Biased or Scarce Data](https://wvasbsd.github.io/2020/index.html) at WACV 2020 was held successfully.
-* 03/01/2020. Two papers were presented at WACV 2020.
+* 03/01/2020. Two papers were presented at **WACV 2020**.
 * 01/31/2020. I gave a talk at United Imaging Intelligence (UII), Cambridge, MA.
 * 01/15/2020. I gave a talk at Wayfair, Boston, MA.
-* 12/19/2019. One paper was accepted to ICLR 2020 as poster.
+* 12/19/2019. One paper was accepted to **ICLR 2020** as poster.
 * 11/22/2019. **Two proposals were funded by GDMS’s University RFP program.**
 * 10/01/2019. Joined in WPI as assistant professor. 
 
