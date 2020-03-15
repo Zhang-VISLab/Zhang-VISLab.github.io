@@ -16,7 +16,7 @@ redirect_from:
 * *Data Efficiency*: Training (deep) models using small amount of (even no) training samples.
 * *Memory Efficiency*: Developing lightweight (deep) models to meet hardware requirements.
 
-with applications of LiDAR in autonomous driving and time-series data analysis. Typical works include, but not limited to, deep learning, zero-shot learning, 2D/3D object recognition/detection/segmentation, video surveillance, point cloud processing, IoT.
+Typical works include, but not limited to, deep learning, zero-shot learning, 2D/3D object recognition/detection/segmentation, video surveillance, point cloud processing, IoT, autonomous driving, and time-series data analysis.
 
 
 
