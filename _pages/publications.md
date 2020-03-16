@@ -11,9 +11,9 @@ author_profile: true
 
 
 
-first item
-second item
-another item {: reversed="reversed"}
+0. first item
+1. second item
+2. another item {: reversed="reversed"}
 
 
 
