@@ -79,6 +79,11 @@ author_profile: true
 
 ---
 
+# 2013
+1. Ziming Zhang. **Efficient Object Detection via Structured Learning and Local Classifiers.** *PhD Thesis, Oxford Brookes University, September 2013.*
+
+---
+
 # 2012
 12. Ziming Zhang, Paul Sturgess, Sunando Sengupta, Nigel Crook, Philip H.S. Torr. **Efficient Discriminative Learning of Parametric Nearest Neighbor Classifiers**. *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2012.*
 
