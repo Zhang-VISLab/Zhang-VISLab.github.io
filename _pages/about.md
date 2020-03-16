@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 **We are always looking to hire talented PhD students. Please contact Prof. Ziming Zhang <zzhang15@wpi.edu>.**
+
 ---
 
 Vision, Intelligence, and System Laboratory (VISLab) at Worcester Polytechnic Institute (WPI) is led by Prof. Ziming Zhang. The aim of the lab is to engage in the state-of-the-art research into the mathematical foundation of computer vision (CV) and artificial Intelligence (AI), as well as the hardware design and engineering that meets the needs of society. Current research focus is **TEAM-Efficient Learning**, i.e., 
