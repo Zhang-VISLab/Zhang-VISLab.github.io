@@ -8,7 +8,14 @@ author_profile: true
 **All my publications can be downloaded from [my Google Scholar profile](https://scholar.google.com/citations?user=2yqx3oIAAAAJ&hl=en). Please send me an email with any problem.**
 
 ---
-{: reversed="reversed"}
+
+
+
+first item
+second item
+another item {: reversed="reversed"}
+
+
 
 # 2020
 37. Yecheng Lyu, Xinming Huang, Ziming Zhang. **Learning to Segment 3D Point Clouds in 2D Image Space.** *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2020.* **(oral)**
