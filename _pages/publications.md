@@ -9,8 +9,12 @@ author_profile: true
 
 ---
 **2020**
-\item
-Yecheng Lyu, Xinming Huang, {\bf Ziming Zhang}. {\it Learning to Segment 3D Point Clouds in 2D Image Space.} In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2020. ({\bf oral})
+Yecheng Lyu, Xinming Huang, Ziming Zhang. 
+<div class="text-blue mb-2">
+Learning to Segment 3D Point Clouds in 2D Image Space.
+</div>
+In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2020. ({\bf oral})
+
 \item
 Anil Kag, {\bf Ziming Zhang}, Venkatesh Saligrama. {\it RNNs Incrementally Evolving on an Equilibrium Manifold: A Panacea for Vanishing and Exploding Gradients?} In Proceeding of International Conference on Learning Representations (ICLR), 2020.
 \item
