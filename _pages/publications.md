@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**All my publications can be downloaded from [my Google Scholar profile](https://scholar.google.com/citations?user=2yqx3oIAAAAJ&hl=en). Please send me an email with any problem.**
+**To date, I have published 2 PAMI, 1 IJCV, 2 NIPS, 1 ICLR, 7 CVPR, 4 ICCV, 3 ECCV. All my publications can be downloaded from [my Google Scholar profile](https://scholar.google.com/citations?user=2yqx3oIAAAAJ&hl=en). Please send me an email with any problem.**
 
 ---
 # 2020
