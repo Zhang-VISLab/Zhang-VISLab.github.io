@@ -25,12 +25,12 @@ author_profile: true
 
 #
 
-33. Mahdi Elhousni, Yecheng Lyu, Xinming Huang, Ziming Zhang. **Automatic Building and Labeling of HD Maps with Deep Learning**. *In Proceeding of Thirty-Second Annual Conference on Innovative Applications of Artificial Intelligence (IAAI), 2020*
+33. Mahdi Elhousni, Yecheng Lyu, Xinming Huang, Ziming Zhang. **Automatic Building and Labeling of HD Maps with Deep Learning**. *In Proceeding of Thirty-Second Annual Conference on Innovative Applications of Artificial Intelligence (IAAI), 2020.*
 
 ---
 
 # 2019
-32. Yao Sui, Ziming Zhang, Guanghui Wang, Yafei Tang, and Li Zhang. **Exploiting the Anisotropy of Correlation Filter Learning for Visual Tracking**. *International Journal of Computer Vision (IJCV). 2019.*
+32. Yao Sui, Ziming Zhang, Guanghui Wang, Yafei Tang, and Li Zhang. **Exploiting the Anisotropy of Correlation Filter Learning for Visual Tracking**. *International Journal of Computer Vision (IJCV), 2019.*
 
 #
 
@@ -48,7 +48,7 @@ author_profile: true
 ---
 
 # 2017
-28. Ziming Zhang, Yun Liu, Xi Chen, Yanjun Zhu, Ming-Ming Cheng, Venkatesh Saligrama, and Philip H.S. Torr. **Sequential Optimization for Efficient High-Quality Object Proposal Generation**. *IEEE Transaction on Pattern Analysis and Machine Intelligence (TPAMI). 2017.*
+28. Ziming Zhang, Yun Liu, Xi Chen, Yanjun Zhu, Ming-Ming Cheng, Venkatesh Saligrama, and Philip H.S. Torr. **Sequential Optimization for Efficient High-Quality Object Proposal Generation**. *IEEE Transaction on Pattern Analysis and Machine Intelligence (TPAMI), 2017.*
 
 #
 
@@ -61,11 +61,11 @@ author_profile: true
 ---
 
 # 2016
-25. Ziming Zhang, Philip H.S. Torr. **Object Proposal Generation using Two-Stage Cascade SVMs**. *IEEE Transaction on Pattern Analysis and Machine Intelligence (TPAMI). 2016 Jan;38(1):102-15. doi: 10.1109/TPAMI.2015.2430348.*
+25. Ziming Zhang, Philip H.S. Torr. **Object Proposal Generation using Two-Stage Cascade SVMs**. *IEEE Transaction on Pattern Analysis and Machine Intelligence (TPAMI), 2016.*
 
 #
 
-24. Ziming Zhang, Venkatesh Saligrama. **PRISM: Person Re-Identiﬁcation via Structured Matching**. *IEEE Transaction on Circuits and Systems for Video Technology (TCSVT). June 2016.*
+24. Ziming Zhang, Venkatesh Saligrama. **PRISM: Person Re-Identiﬁcation via Structured Matching**. *IEEE Transaction on Circuits and Systems for Video Technology (TCSVT), June 2016.*
 
 #
 
