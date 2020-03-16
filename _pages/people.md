@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: 
+title: "People"
 permalink: /people/
 author_profile: true
----
 
 ---
-title: Faculty
----
+
+# Faculty
 * Prof. Ziming Zhang
 * [Prof. Xinming Huang](http://users.wpi.edu/~xhuang/)
 
