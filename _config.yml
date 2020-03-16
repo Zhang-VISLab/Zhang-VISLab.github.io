@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vision, Intelligence, and System Laboratory (VISLab)"
+title                    : "VISLab"
 title_separator          : "-"
 name                     : &name "Ziming Zhang"
 description              : &description "Assistant Professor @ Worcester Polytechnic Institute (WPI)"
