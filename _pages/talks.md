@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-| 01/15/2020 | United Imaging Intelligence, Cambridge, MA |
+| 01/15/2020 | United Imaging Intelligence (UII), Cambridge, MA |
 | 01/31/2020 | Wayfair, Boston, MA |
 | 09/2018 | IBM Research at Boston, MA |
 | 05/2018	| Deep Learning Summit, Boston, MA |
