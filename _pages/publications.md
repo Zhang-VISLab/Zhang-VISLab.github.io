@@ -13,11 +13,11 @@ author_profile: true
 # 2020
 37. Yecheng Lyu, Xinming Huang, Ziming Zhang. **Learning to Segment 3D Point Clouds in 2D Image Space.** *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2020.* **(oral)**
 
----
+-
 
 36. Anil Kag, Ziming Zhang, Venkatesh Saligrama. **RNNs Incrementally Evolving on an Equilibrium Manifold: A Panacea for Vanishing and Exploding Gradients?** *In Proceeding of International Conference on Learning Representations (ICLR), 2020.*
 
----
+-
 
 35. Ziming Zhang, Wenchi Ma, Yuanwei Wu, Guanghui Wang. **Self-Orthogonality Module: A Network Architecture Plug-in for Learning Orthogonal Filters**. *In Proceeding of Winter Conference on Applications of Computer Vision (WACV), 2020.*
 34. Wenju Xu, Guanghui Wang, Alan Sullivan, Ziming Zhang. **Towards Learning Affine-Invariant Representations via Data-Efficient CNNs**. *In Proceeding of Winter Conference on Applications of Computer Vision (WACV), 2020.*
