@@ -8,12 +8,8 @@ author_profile: true
 **All my publications can be downloaded from [my Google Scholar profile](https://scholar.google.com/citations?user=2yqx3oIAAAAJ&hl=en). Please send me an email with any problem.**
 
 ---
-**2020**
-Yecheng Lyu, Xinming Huang, Ziming Zhang. 
-<div class="text-blue mb-2">
-Learning to Segment 3D Point Clouds in 2D Image Space.
-</div>
-In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2020. ({\bf oral})
+# 2020
+Yecheng Lyu, Xinming Huang, Ziming Zhang. **Learning to Segment 3D Point Clouds in 2D Image Space.** *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2020.* **(oral)**
 
 \item
 Anil Kag, {\bf Ziming Zhang}, Venkatesh Saligrama. {\it RNNs Incrementally Evolving on an Equilibrium Manifold: A Panacea for Vanishing and Exploding Gradients?} In Proceeding of International Conference on Learning Representations (ICLR), 2020.
