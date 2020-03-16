@@ -4,7 +4,10 @@ title:
 permalink: /people/
 author_profile: true
 ---
-# Faculty
+
+---
+title: Faculty
+---
 * Prof. Ziming Zhang
 * [Prof. Xinming Huang](http://users.wpi.edu/~xhuang/)
 
