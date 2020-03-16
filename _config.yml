@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "VISLab"
+title                    : "VISLab@WPI"
 title_separator          : "-"
 name                     : &name "Ziming Zhang"
 description              : &description "Assistant Professor @ Worcester Polytechnic Institute (WPI)"
