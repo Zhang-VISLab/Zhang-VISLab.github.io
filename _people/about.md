@@ -1,6 +1,6 @@
 # Faculty
 * Prof. Ziming Zhang
-* Prof. [Xinming Huang](http://users.wpi.edu/~xhuang/)
+* [Prof. Xinming Huang](http://users.wpi.edu/~xhuang/)
 
 # PhD Students
 * Yecheng Lyu, 2019-now (Co-supervised with Prof. Huang)
