@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**We are always looking to hire talented PhD students. Please contact Prof. Ziming Zhang <zzhang15@wpi.edu>.**
+**I am always looking to hire talented PhD students. Please contact me <zzhang15@wpi.edu>.**
 
 ---
 
