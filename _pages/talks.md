@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-* 04/15/2020, Yiming Zhao gave a talk on Deep Homography
+* 04/15/2020, Yiming Zhao gave a talk on [Deep Homography](https://drive.google.com/open?id=1mW1Us380A_ICmh8LEpCe5ecEvRwYU702)
 * 01/15/2020, United Imaging Intelligence (UII), Cambridge, MA
 * 01/31/2020, Wayfair, Boston, MA
 * 09/2018, IBM Research at Boston, MA
