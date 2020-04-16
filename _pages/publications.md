@@ -13,7 +13,7 @@ P38. Yecheng Lyu, Xinming Huang, Ziming Zhang. **Learning to Segment 3D Point Cl
 
 P37. Anil Kag, Ziming Zhang, Venkatesh Saligrama. **RNNs Incrementally Evolving on an Equilibrium Manifold: A Panacea for Vanishing and Exploding Gradients?** *In Proceeding of International Conference on Learning Representations (ICLR), 2020.*
 
-P36. Ziming Zhang^*, Wenchi Ma^*, Yuanwei Wu, Guanghui Wang. **Self-Orthogonality Module: A Network Architecture Plug-in for Learning Orthogonal Filters**. *In Proceeding of Winter Conference on Applications of Computer Vision (WACV), 2020.*
+P36. Ziming Zhang^{*}, Wenchi Ma^*, Yuanwei Wu, Guanghui Wang. **Self-Orthogonality Module: A Network Architecture Plug-in for Learning Orthogonal Filters**. *In Proceeding of Winter Conference on Applications of Computer Vision (WACV), 2020.*
 
 P35. Wenju Xu, Guanghui Wang, Alan Sullivan, Ziming Zhang. **Towards Learning Affine-Invariant Representations via Data-Efficient CNNs**. *In Proceeding of Winter Conference on Applications of Computer Vision (WACV), 2020.*
 
