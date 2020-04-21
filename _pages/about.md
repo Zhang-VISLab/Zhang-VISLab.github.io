@@ -16,7 +16,7 @@ Vision, Intelligence, and System Laboratory (VISLab) at Worcester Polytechnic In
 * *Training Efficiency*: Improving the convergence and training speed of learning algorithms.
 * *Inference Efficiency*: Real-time algorithmic implementation for significant application impact.
 * *Data Efficiency*: Training (deep) models using small amount of (even no) training samples.
-* *Memory Efficiency*: Developing hardware-friendly lightweight (deep) models and algorithms.
+* *Model Efficiency*: Developing hardware-friendly lightweight (deep) models and algorithms.
 
 ---
 
