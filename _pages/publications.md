@@ -31,7 +31,7 @@ P32. Yuanwei Wu, Ziming Zhang, Guanghui Wang. **Unsupervised Deep Feature Transf
 # 2018
 P31. Jian Zheng, Teng-Yok Lee, Chen Feng, Xiaohua Li, Ziming Zhang. **Robust Attentional Pooling via Feature Selection**. *In Proceeding of International Conference on Pattern Recognition (ICPR), 2018.*
 
-P30. Ziming Zhang, Yuanwei Wu, Guanghui Wang. **BPGrad: Towards Global Optimality in Deep Learning via Branch and Pruning**. *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2018.*
+P30. Ziming Zhang*, Yuanwei Wu*, Guanghui Wang. **BPGrad: Towards Global Optimality in Deep Learning via Branch and Pruning**. *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2018.*
 
 ---
 
