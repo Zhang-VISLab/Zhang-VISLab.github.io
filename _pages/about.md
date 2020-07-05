@@ -28,7 +28,7 @@ His work "Deep Learning-based Water Detector" won the [R&D100 Award 2018](https:
 ---
 
 # Recent News
-* 07/01/2020. Our team achieved **Rank-1** in the leaderboard of AI City Challenge 2020 Track3: City-Scale Multi-Camera Vehicle Re-Identification (https://www.aicitychallenge.org). 
+* 07/01/2020. Our team achieved **Rank-1** in the leaderboard of [AI City Challenge 2020](https://www.aicitychallenge.org) Track3: City-Scale Multi-Camera Vehicle Re-Identification.
 * 03/13/2020. One paper was accepted to **CVPR 2020** as oral.
 * 03/05/2020. Our workshop [Vision Applications & Solutions to Biased or Scarce Data](https://wvasbsd.github.io/2020/index.html) at WACV 2020 was held successfully.
 * 03/01/2020. Two papers were presented at **WACV 2020**.
