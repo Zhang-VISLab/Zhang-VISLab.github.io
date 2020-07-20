@@ -19,4 +19,4 @@ author_profile: true
 * Amey Kulkarni (2020), now at Bastian Solutions
 
 # Visiting Scholars
-* Ce Zheng, 2019-now, MS from Electrical Engineering @ Tufts University
+* Ce Zheng, 2019-2020, now pursuing PhD at NC State University
