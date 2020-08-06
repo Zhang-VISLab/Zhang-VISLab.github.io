@@ -5,10 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-To date, I have published **2 PAMI, 1 IJCV, 2 NIPS, 1 ICLR, 7 CVPR, 4 ICCV, 3 ECCV, 1 MM, 21 in total**. All my publications can be downloaded from [my Google Scholar profile](https://scholar.google.com/citations?user=2yqx3oIAAAAJ&hl=en). Please send me an email with any problem.
+To date, I have published **2 PAMI, 1 IJCV, 2 NIPS, 1 ICLR, 7 CVPR, 4 ICCV, 3 ECCV, 2 MM, 22 in total**. All my publications can be downloaded from [my Google Scholar profile](https://scholar.google.com/citations?user=2yqx3oIAAAAJ&hl=en). Please send me an email with any problem.
 
 ---
 # 2020
+P40. Keshav Bimbraw, Xihan Ma, Ziming Zhang, Haichong Zhang. **Augmented Reality-Based Lung Ultrasound Scanning Guidance**. *In Proceeding of Workshop on Advances in Simplifying Medical UltraSound (ASMUS), Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020.*
+
+P39. Ce Zheng, Yecheng Lyu, Ming Li, Ziming Zhang. **LodoNet: A Deep Neural Network with 2D Keypoint Matching for 3D LiDAR Odometry Estimation**. *In Proceeding of ACM International Conference on Multimedia (ACM MM), 2020.*
+
 P38. Yecheng Lyu, Xinming Huang, Ziming Zhang. **Learning to Segment 3D Point Clouds in 2D Image Space.** *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2020.* **(oral)**
 
 P37. Anil Kag, Ziming Zhang, Venkatesh Saligrama. **RNNs Incrementally Evolving on an Equilibrium Manifold: A Panacea for Vanishing and Exploding Gradients?** *In Proceeding of International Conference on Learning Representations (ICLR), 2020.*
