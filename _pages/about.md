@@ -44,4 +44,8 @@ His work "Deep Learning-based Water Detector" won the [R&D100 Award 2018](https:
 ---
 
 # Funding Sponsors 
-We sincerely appreciate the support from **National Science Foundation (NSF)** and **General Dynamics Mission Systems (GDMS)**.
+We sincerely appreciate the support from 
+* National Science Foundation (NSF)
+* General Dynamics Mission Systems (GDMS)
+
+
