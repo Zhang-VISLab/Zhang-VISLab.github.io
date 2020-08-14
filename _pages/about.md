@@ -28,7 +28,7 @@ His work "Deep Learning-based Water Detector" won the [R&D100 Award 2018](https:
 ---
 
 # Recent News
-* 08/14/2020. Grateful to receive an **NSF award** for Knowledge Integrated Data-Efficient Deep Learning.
+* 08/14/2020. **Grateful to receive an NSF award for Knowledge Integrated Data-Efficient Deep Learning.
 * 07/28/2020. One paper was accepted to **MICCAI ASMUS 2020**.
 * 07/28/2020. One paper was accepted to **ACM MM 2020**.
 * 07/01/2020. Our team achieved **Rank-1** in the leaderboard of [AI City Challenge 2020](https://www.aicitychallenge.org) Track3: City-Scale Multi-Camera Vehicle Re-Identification.
@@ -38,13 +38,10 @@ His work "Deep Learning-based Water Detector" won the [R&D100 Award 2018](https:
 * 01/31/2020. I gave a talk at United Imaging Intelligence (UII), Cambridge, MA.
 * 01/15/2020. I gave a talk at Wayfair, Boston, MA.
 * 12/19/2019. One paper was accepted to **ICLR 2020** as poster.
-* 11/22/2019. **Two proposals were funded by GDMS’s University RFP program.**
+* 11/22/2019. **Two proposals were funded by GDMS’s University RFP program.
 * 10/01/2019. Joined in WPI as assistant professor. 
 
 ---
 
 # Funding Sponsors 
-We sincerely appreciate the support from all the following sponsors.
-<p align="left">  
-  <img src="https://zhang-vislab.github.io/images/GDMS-logo-img.png?raw=true" alt="portfolio_view" style="width: 450px;"/> 
-</p>
+We sincerely appreciate the support from **National Science Foundation (NSF)** and **General Dynamics Mission Systems (GDMS)**.
