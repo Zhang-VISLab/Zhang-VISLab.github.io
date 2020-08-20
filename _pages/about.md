@@ -31,7 +31,7 @@ His work "Deep Learning-based Water Detector" won the [R&D100 Award 2018](https:
 * 08/14/2020. **Grateful to receive an NSF award for Knowledge Integrated Data-Efficient Deep Learning.**
 * 07/28/2020. One paper was accepted to **MICCAI ASMUS 2020**.
 * 07/28/2020. One paper was accepted to **ACM MM 2020**.
-* 07/01/2020. Our team achieved **Rank-1** in the leaderboard of [AI City Challenge 2020](https://www.aicitychallenge.org) Track3: City-Scale Multi-Camera Vehicle Re-Identification.
+* 07/01/2020. Our team achieved **Rank-1** in the leaderboard of [AI City Challenge 2020](https://www.aicitychallenge.org) Track3: City-Scale Multi-Camera Vehicle Re-Identification. See our [demo video](https://www.youtube.com/watch?v=ZR69HMsASqc&feature=youtu.be) for visual analysis.
 * 03/13/2020. One paper was accepted to **CVPR 2020** as oral.
 * 03/05/2020. Our workshop [Vision Applications & Solutions to Biased or Scarce Data](https://wvasbsd.github.io/2020/index.html) at WACV 2020 was held successfully.
 * 03/01/2020. Two papers were presented at **WACV 2020**.
