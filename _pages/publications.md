@@ -5,10 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-To date, I have published **2 PAMI, 1 IJCV, 2 NIPS, 1 ICLR, 7 CVPR, 4 ICCV, 3 ECCV, 2 MM, 1 ICDM, 23 in total**. All my publications can be downloaded from [my Google Scholar profile](https://scholar.google.com/citations?user=2yqx3oIAAAAJ&hl=en). Please send me an email with any problem.
+To date, I have published **2 PAMI, 1 IJCV, 3 NIPS, 1 ICLR, 7 CVPR, 4 ICCV, 3 ECCV, 2 MM, 1 ICDM, 24 in total**. All my publications can be downloaded from [my Google Scholar profile](https://scholar.google.com/citations?user=2yqx3oIAAAAJ&hl=en). Please send me an email with any problem.
 
 ---
 # 2020
+P42. Xin Zhang, Yanhua Li, Ziming Zhang, and Zhi-Li Zhang. **f-GAIL: Learning f-Divergence for Generative Adversarial Imitation Learning**. *In Proceeding of Advances in Neural Information Processing Systems (NeurIPS), 2020.*
+
 P41. Xin Zhang, Yanhua Li, Xun Zhou, Ziming Zhang, and Jun Luo. **TrajGAIL: Trajectory Generative Adversarial Imitation Learning for Long-term Decision Analysis**. *In Proceeding of International Conference on Data Mining (ICDM), 2020.*
 
 P40. Keshav Bimbraw, Xihan Ma, Ziming Zhang, and Haichong Zhang. **Augmented Reality-Based Lung Ultrasound Scanning Guidance**. *In Proceeding of Workshop on Advances in Simplifying Medical UltraSound (ASMUS), Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020.*
