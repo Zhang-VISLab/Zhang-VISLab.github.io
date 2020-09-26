@@ -28,6 +28,7 @@ His work "Deep Learning-based Water Detector" won the [R&D100 Award 2018](https:
 ---
 
 # Recent News
+* 09/25/2020. One paper was accepted to **NeurIPS 2020**.
 * 08/20/2020. One paper was accepted to **ICDM 2020**.
 * 08/14/2020. **Grateful to receive an NSF award for Knowledge Integrated Data-Efficient Deep Learning.**
 * 07/28/2020. One paper was accepted to **MICCAI ASMUS 2020**.
