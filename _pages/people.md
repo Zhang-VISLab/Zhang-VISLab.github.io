@@ -12,7 +12,7 @@ author_profile: true
 
 # PhD Students
 * Yecheng Lyu, 2019-now (Co-supervised with Prof. Huang)
-* Yun Yue, 2020-now, MS from DS @ WPI
+* [Yun Yue](https://yunyuny.com/), 2020-now, MS from DS @ WPI
 
 # Master Students
 * Amey Kulkarni (2020), now at Bastian Solutions
