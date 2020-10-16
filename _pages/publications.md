@@ -11,9 +11,9 @@ To date, I have published **2 PAMI, 1 IJCV, 3 NIPS, 1 ICLR, 7 CVPR, 4 ICCV, 3 EC
 # 2020
 P45. Ziming Zhang. **An Efficient Empirical Solver for Localized Multiple Kernel Learning via DNNs**. *In Proceeding of International Conference on Pattern Recognition (ICPR), 2020.*
 
-P44. Yun Yue, Ming Li, Venkatesh Saligrama, and Ziming Zhang. **RNN Training along Locally Optimal Trajectories via Frank-Wolfe Algorithm**. *In Proceeding of International Conference on Pattern Recognition (ICPR), 2018.*
+P44. Yun Yue, Ming Li, Venkatesh Saligrama, and Ziming Zhang. **RNN Training along Locally Optimal Trajectories via Frank-Wolfe Algorithm**. *In Proceeding of International Conference on Pattern Recognition (ICPR), 2020.*
 
-P43. Yecheng Lyu, Ming Li, Xinming Huang, Ulkuhan Guler, Patrick Schaumont, and Ziming Zhang. **TreeRNN: Topology-Preserving Deep Graph Embedding and Learning**. *In Proceeding of International Conference on Pattern Recognition (ICPR), 2018.*
+P43. Yecheng Lyu, Ming Li, Xinming Huang, Ulkuhan Guler, Patrick Schaumont, and Ziming Zhang. **TreeRNN: Topology-Preserving Deep Graph Embedding and Learning**. *In Proceeding of International Conference on Pattern Recognition (ICPR), 2020.*
 
 P42. Xin Zhang, Yanhua Li, Ziming Zhang, and Zhi-Li Zhang. **f-GAIL: Learning f-Divergence for Generative Adversarial Imitation Learning**. *In Proceeding of Advances in Neural Information Processing Systems (NeurIPS), 2020.*
 
