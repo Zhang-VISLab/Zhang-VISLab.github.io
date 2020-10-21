@@ -19,5 +19,5 @@ author_profile: true
 * Amey Kulkarni (2020), now at Bastian Solutions
 
 # Visiting Scholars
-* [Ming Li](https://ming1993li.github.io), 2019-now, MS from EECS @ Peking University
 * Ce Zheng, 2019-2020, MS from EE @ Tufts University, now pursuing PhD at NC State University
+* [Ming Li](https://ming1993li.github.io), 2019-now, MS from EECS @ Peking University
