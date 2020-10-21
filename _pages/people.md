@@ -11,7 +11,8 @@ author_profile: true
 * [Prof. Xinming Huang](http://users.wpi.edu/~xhuang/)
 
 # PhD Students
-* Yecheng Lyu, 2019-now (Co-supervised with Prof. Huang)
+* Yecheng Lyu, 2019-now (Co-supervised with Prof. Huang in ECE)
+* Guojun Wu, 2020-now (Co-supervised with Prof. Yanhua Li in CS)
 * [Yun Yue](https://yunyuny.com/), 2020-now, MS from DS @ WPI
 
 # Master Students
