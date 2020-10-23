@@ -9,92 +9,87 @@ To date, I have published **2 PAMI, 1 IJCV, 3 NIPS, 1 ICLR, 7 CVPR, 4 ICCV, 3 EC
 
 ---
 # 2020
-P45. Ziming Zhang. **An Efficient Empirical Solver for Localized Multiple Kernel Learning via DNNs**. *In Proceeding of International Conference on Pattern Recognition (ICPR), 2020.*
+P44. Ziming Zhang. **An Efficient Empirical Solver for Localized Multiple Kernel Learning via DNNs**. *In Proceeding of International Conference on Pattern Recognition (ICPR), 2020.*
 
-P44. Yun Yue, Ming Li, Venkatesh Saligrama, and Ziming Zhang. **RNN Training along Locally Optimal Trajectories via Frank-Wolfe Algorithm**. *In Proceeding of International Conference on Pattern Recognition (ICPR), 2020.*
+P43. Yun Yue, Ming Li, Venkatesh Saligrama, and Ziming Zhang. **RNN Training along Locally Optimal Trajectories via Frank-Wolfe Algorithm**. *In Proceeding of International Conference on Pattern Recognition (ICPR), 2020.*
 
-P43. Yecheng Lyu, Ming Li, Xinming Huang, Ulkuhan Guler, Patrick Schaumont, and Ziming Zhang. **TreeRNN: Topology-Preserving Deep Graph Embedding and Learning**. *In Proceeding of International Conference on Pattern Recognition (ICPR), 2020.*
+P42. Yecheng Lyu, Ming Li, Xinming Huang, Ulkuhan Guler, Patrick Schaumont, and Ziming Zhang. **TreeRNN: Topology-Preserving Deep Graph Embedding and Learning**. *In Proceeding of International Conference on Pattern Recognition (ICPR), 2020.*
 
-P42. Xin Zhang, Yanhua Li, Ziming Zhang, and Zhi-Li Zhang. **f-GAIL: Learning f-Divergence for Generative Adversarial Imitation Learning**. *In Proceeding of Advances in Neural Information Processing Systems (NeurIPS), 2020.*
+P41. Xin Zhang, Yanhua Li, Ziming Zhang, and Zhi-Li Zhang. **f-GAIL: Learning f-Divergence for Generative Adversarial Imitation Learning**. *In Proceeding of Advances in Neural Information Processing Systems (NeurIPS), 2020.*
 
-P41. Xin Zhang, Yanhua Li, Xun Zhou, Ziming Zhang, and Jun Luo. **TrajGAIL: Trajectory Generative Adversarial Imitation Learning for Long-term Decision Analysis**. *In Proceeding of International Conference on Data Mining (ICDM), 2020.*
+P40. Xin Zhang, Yanhua Li, Xun Zhou, Ziming Zhang, and Jun Luo. **TrajGAIL: Trajectory Generative Adversarial Imitation Learning for Long-term Decision Analysis**. *In Proceeding of International Conference on Data Mining (ICDM), 2020.*
 
-P40. Keshav Bimbraw, Xihan Ma, Ziming Zhang, and Haichong Zhang. **Augmented Reality-Based Lung Ultrasound Scanning Guidance**. *In Proceeding of Workshop on Advances in Simplifying Medical UltraSound (ASMUS), Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020.*
+P39. Keshav Bimbraw, Xihan Ma, Ziming Zhang, and Haichong Zhang. **Augmented Reality-Based Lung Ultrasound Scanning Guidance**. *In Proceeding of Workshop on Advances in Simplifying Medical UltraSound (ASMUS), Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020.*
 
-P39. Ce Zheng, Yecheng Lyu, Ming Li, and Ziming Zhang. **LodoNet: A Deep Neural Network with 2D Keypoint Matching for 3D LiDAR Odometry Estimation**. *In Proceeding of ACM International Conference on Multimedia (ACM MM), 2020.*
+P38. Ce Zheng, Yecheng Lyu, Ming Li, and Ziming Zhang. **LodoNet: A Deep Neural Network with 2D Keypoint Matching for 3D LiDAR Odometry Estimation**. *In Proceeding of ACM International Conference on Multimedia (ACM MM), 2020.*
 
-P38. Yecheng Lyu, Xinming Huang, and Ziming Zhang. **Learning to Segment 3D Point Clouds in 2D Image Space.** *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2020.* **(oral)**
+P37. Yecheng Lyu, Xinming Huang, and Ziming Zhang. **Learning to Segment 3D Point Clouds in 2D Image Space.** *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2020.* **(oral)**
 
-P37. Anil Kag, Ziming Zhang, and Venkatesh Saligrama. **RNNs Incrementally Evolving on an Equilibrium Manifold: A Panacea for Vanishing and Exploding Gradients?** *In Proceeding of International Conference on Learning Representations (ICLR), 2020.*
+P36. Anil Kag, Ziming Zhang, and Venkatesh Saligrama. **RNNs Incrementally Evolving on an Equilibrium Manifold: A Panacea for Vanishing and Exploding Gradients?** *In Proceeding of International Conference on Learning Representations (ICLR), 2020.*
 
-P36. Ziming Zhang*, Wenchi Ma*, Yuanwei Wu, and Guanghui Wang. **Self-Orthogonality Module: A Network Architecture Plug-in for Learning Orthogonal Filters**. *In Proceeding of Winter Conference on Applications of Computer Vision (WACV), 2020.*
+P35. Ziming Zhang*, Wenchi Ma*, Yuanwei Wu, and Guanghui Wang. **Self-Orthogonality Module: A Network Architecture Plug-in for Learning Orthogonal Filters**. *In Proceeding of Winter Conference on Applications of Computer Vision (WACV), 2020.*
 
-P35. Wenju Xu, Guanghui Wang, Alan Sullivan, and Ziming Zhang. **Towards Learning Affine-Invariant Representations via Data-Efficient CNNs**. *In Proceeding of Winter Conference on Applications of Computer Vision (WACV), 2020.*
+P34. Wenju Xu, Guanghui Wang, Alan Sullivan, and Ziming Zhang. **Towards Learning Affine-Invariant Representations via Data-Efficient CNNs**. *In Proceeding of Winter Conference on Applications of Computer Vision (WACV), 2020.*
 
-P34. Mahdi Elhousni, Yecheng Lyu, Xinming Huang, and Ziming Zhang. **Automatic Building and Labeling of HD Maps with Deep Learning**. *In Proceeding of Thirty-Second Annual Conference on Innovative Applications of Artificial Intelligence (IAAI), 2020.*
+P33. Mahdi Elhousni, Yecheng Lyu, Xinming Huang, and Ziming Zhang. **Automatic Building and Labeling of HD Maps with Deep Learning**. *In Proceeding of Thirty-Second Annual Conference on Innovative Applications of Artificial Intelligence (IAAI), 2020.*
 
 ---
 
 # 2019
-P33. Yao Sui, Ziming Zhang, Guanghui Wang, Yafei Tang, and Li Zhang. **Exploiting the Anisotropy of Correlation Filter Learning for Visual Tracking**. *International Journal of Computer Vision (IJCV), 2019.*
+P32. Yao Sui, Ziming Zhang, Guanghui Wang, Yafei Tang, and Li Zhang. **Exploiting the Anisotropy of Correlation Filter Learning for Visual Tracking**. *International Journal of Computer Vision (IJCV), 2019.*
 
-P32. Yuanwei Wu, Ziming Zhang, and Guanghui Wang. **Unsupervised Deep Feature Transfer for Low Resolution Image Classification**. *In Proceeding of Workshop and Challenge on Real-World Recognition from Low-Quality Images and Videos, International Conference on Computer Vision (ICCV), 2019.*
+P31. Yuanwei Wu, Ziming Zhang, and Guanghui Wang. **Unsupervised Deep Feature Transfer for Low Resolution Image Classification**. *In Proceeding of Workshop and Challenge on Real-World Recognition from Low-Quality Images and Videos, International Conference on Computer Vision (ICCV), 2019.*
 
 ---
 
 # 2018
-P31. Jian Zheng, Teng-Yok Lee, Chen Feng, Xiaohua Li, and Ziming Zhang. **Robust Attentional Pooling via Feature Selection**. *In Proceeding of International Conference on Pattern Recognition (ICPR), 2018.*
+P30. Jian Zheng, Teng-Yok Lee, Chen Feng, Xiaohua Li, and Ziming Zhang. **Robust Attentional Pooling via Feature Selection**. *In Proceeding of International Conference on Pattern Recognition (ICPR), 2018.*
 
-P30. Ziming Zhang*, Yuanwei Wu*, and Guanghui Wang. **BPGrad: Towards Global Optimality in Deep Learning via Branch and Pruning**. *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2018.*
+P29. Ziming Zhang*, Yuanwei Wu*, and Guanghui Wang. **BPGrad: Towards Global Optimality in Deep Learning via Branch and Pruning**. *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2018.*
 
 ---
 
 # 2017
-P29. Ziming Zhang, Yun Liu, Xi Chen, Yanjun Zhu, Ming-Ming Cheng, Venkatesh Saligrama, and Philip H.S. Torr. **Sequential Optimization for Efficient High-Quality Object Proposal Generation**. *IEEE Transaction on Pattern Analysis and Machine Intelligence (TPAMI), 2017.*
+P28. Ziming Zhang, Yun Liu, Xi Chen, Yanjun Zhu, Ming-Ming Cheng, Venkatesh Saligrama, and Philip H.S. Torr. **Sequential Optimization for Efficient High-Quality Object Proposal Generation**. *IEEE Transaction on Pattern Analysis and Machine Intelligence (TPAMI), 2017.*
 
-P28. Ziming Zhang, and Matthew Brand. **Convergent Block Coordinate Descent for Training Tikhonov Regularized Deep Neural Networks**. *In Proceeding of Advances in Neural Information Processing Systems (NIPS), 2017.*
+P27. Ziming Zhang, and Matthew Brand. **Convergent Block Coordinate Descent for Training Tikhonov Regularized Deep Neural Networks**. *In Proceeding of Advances in Neural Information Processing Systems (NIPS), 2017.*
 
-P27. Chiori Hori, Takaaki Hori, Teng-Yok Lee, Ziming Zhang, Bret Harsham, John R. Hershey, Tim K. Marks, and Kazuhiro Sumi. **Attention-Based Multimodel Fusion for Video Description**. *In Proceeding of International Conference on Computer Vision (ICCV), 2017.*
+P26. Chiori Hori, Takaaki Hori, Teng-Yok Lee, Ziming Zhang, Bret Harsham, John R. Hershey, Tim K. Marks, and Kazuhiro Sumi. **Attention-Based Multimodel Fusion for Video Description**. *In Proceeding of International Conference on Computer Vision (ICCV), 2017.*
 
 ---
 
 # 2016
-P26. Ziming Zhang, and Philip H.S. Torr. **Object Proposal Generation using Two-Stage Cascade SVMs**. *IEEE Transaction on Pattern Analysis and Machine Intelligence (TPAMI), 2016.*
+P25. Ziming Zhang, and Philip H.S. Torr. **Object Proposal Generation using Two-Stage Cascade SVMs**. *IEEE Transaction on Pattern Analysis and Machine Intelligence (TPAMI), 2016.*
 
-P25. Ziming Zhang, and Venkatesh Saligrama. **PRISM: Person Re-Identiﬁcation via Structured Matching**. *IEEE Transaction on Circuits and Systems for Video Technology (TCSVT), June 2016.*
+P24. Ziming Zhang, and Venkatesh Saligrama. **PRISM: Person Re-Identiﬁcation via Structured Matching**. *IEEE Transaction on Circuits and Systems for Video Technology (TCSVT), June 2016.*
 
-P24. Ziming Zhang, and Venkatesh Saligrama. **Zero-Shot Recognition via Structured Prediction**. *In Proceeding of European Conference on Computer Vision (ECCV), 2016.*
+P23. Ziming Zhang, and Venkatesh Saligrama. **Zero-Shot Recognition via Structured Prediction**. *In Proceeding of European Conference on Computer Vision (ECCV), 2016.*
 
-P23. Yao Sui, Ziming Zhang, Guanghui Wang, Yafei Tang, and Li Zhang. **Real-Time Visual Tracking: Promoting the Robustness of Correlation Filter Learning**. *In Proceeding of European Conference on Computer Vision (ECCV), 2016.*
+P22. Yao Sui, Ziming Zhang, Guanghui Wang, Yafei Tang, and Li Zhang. **Real-Time Visual Tracking: Promoting the Robustness of Correlation Filter Learning**. *In Proceeding of European Conference on Computer Vision (ECCV), 2016.*
 
-P22. Ziming Zhang, Yuting Chen, and Venkatesh Saligrama. **Efficient Training of Very Deep Neural Networks for Supervised Hashing**. *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2016.*
+P21. Ziming Zhang, Yuting Chen, and Venkatesh Saligrama. **Efficient Training of Very Deep Neural Networks for Supervised Hashing**. *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2016.*
 
-P21. Ziming Zhang, and Venkatesh Saligrama. **Zero-Shot Learning via Joint Latent Similarity Embedding**. *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2016.*
+P20. Ziming Zhang, and Venkatesh Saligrama. **Zero-Shot Learning via Joint Latent Similarity Embedding**. *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2016.*
 
 ---
 
 # 2015
-P20. Ziming Zhang, and Venkatesh Saligrama. **Zero-Shot Learning via Semantic Similarity Embedding**. *In Proceeding of International Conference on Computer Vision (ICCV), 2015.*
+P19. Ziming Zhang, and Venkatesh Saligrama. **Zero-Shot Learning via Semantic Similarity Embedding**. *In Proceeding of International Conference on Computer Vision (ICCV), 2015.*
 
-P19. Ziming Zhang, Yuting Chen, and Venkatesh Saligrama. **Group Membership Prediction**. *In Proceeding of International Conference on Computer Vision (ICCV), 2015.*
+P18. Ziming Zhang, Yuting Chen, and Venkatesh Saligrama. **Group Membership Prediction**. *In Proceeding of International Conference on Computer Vision (ICCV), 2015.*
 
-P18. Gregory D. Castanon, Yuting Chen, Ziming Zhang, and Venkatesh Saligrama. **Efficient Activity Retrieval through Semantic Graph Queries**. *In Proceeding of ACM International Conference on Multimedia (ACM MM), 2015: 391-400.* **(oral)**
+P17. Gregory D. Castanon, Yuting Chen, Ziming Zhang, and Venkatesh Saligrama. **Efficient Activity Retrieval through Semantic Graph Queries**. *In Proceeding of ACM International Conference on Multimedia (ACM MM), 2015: 391-400.* **(oral)**
 
-P17. Ziming Zhang, and Venkatesh Saligrama. **RAPID: Rapidly Accelerated Proximal Gradient Algorithms for Convex Minimization**. *In Proceeding of International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2015.*
+P16. Ziming Zhang, and Venkatesh Saligrama. **RAPID: Rapidly Accelerated Proximal Gradient Algorithms for Convex Minimization**. *In Proceeding of International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2015.*
 
 ---
 
 # 2014
-P16. Ziming Zhang, Heng Huang, and Dinggang Shen. **Integrative Analysis of Multi-Dimensional Imaging Genomics Data for Alzheimer's Disease Prediction**. *Frontiers in Aging Neuroscience, 2014.*
+P15. Ziming Zhang, Heng Huang, and Dinggang Shen. **Integrative Analysis of Multi-Dimensional Imaging Genomics Data for Alzheimer's Disease Prediction**. *Frontiers in Aging Neuroscience, 2014.*
 
-P15. Ziming Zhang, Yuting Chen, and Venkatesh Saligrama. **A Novel Visual Word Co-occurrence Model for Person Re-identification** *In ECCV Workshop on Visual Surveillance and Re-Identification, 2014.*
+P14. Ziming Zhang, Yuting Chen, and Venkatesh Saligrama. **A Novel Visual Word Co-occurrence Model for Person Re-identification** *In ECCV Workshop on Visual Surveillance and Re-Identification, 2014.*
 
-P14. Ming-Ming Cheng, Ziming Zhang, Wen-Yan Lin, and Philip H.S. Torr. **BING: Binarized normed gradients for objectness estimation at 300fps**. *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2014.* **(oral)**
-
----
-
-# 2013
-P13. Ziming Zhang. **Efficient Object Detection via Structured Learning and Local Classifiers.** *PhD Thesis, Oxford Brookes University, September 2013.*
+P13. Ming-Ming Cheng, Ziming Zhang, Wen-Yan Lin, and Philip H.S. Torr. **BING: Binarized normed gradients for objectness estimation at 300fps**. *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2014.* **(oral)**
 
 ---
 
