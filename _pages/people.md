@@ -13,6 +13,7 @@ author_profile: true
 # PhD Students
 * Yecheng Lyu, 2019-now (Co-supervised with Prof. Huang in ECE)
 * Guojun Wu, 2020-now (Co-supervised with Prof. Yanhua Li in CS)
+* Biao Yin, 2020-now (Co-supervised with Prof. Elke A Rundensteiner in Data Science)
 * [Yun Yue](https://yunyuny.com/), 2020-now, MS from DS @ WPI
 
 # Master Students
