@@ -11,7 +11,7 @@ author_profile: true
 * [Prof. Xinming Huang](http://users.wpi.edu/~xhuang/)
 
 # PhD Students
-* Yuting Chen, 2014-2016, co-supervised with Prof. Saligrama in ECE at Boston University
+* Yuting Chen, 2014-2016 (Co-supervised with Prof. Saligrama in ECE at Boston University)
 * Yecheng Lyu, 2019-now (Co-supervised with Prof. Huang in ECE at WPI)
 * Guojun Wu, 2020-now (Co-supervised with Prof. Yanhua Li in CS at WPI)
 * Biao Yin, 2020-now (Co-supervised with Prof. Elke A Rundensteiner in Data Science at WPI)
