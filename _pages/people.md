@@ -16,6 +16,7 @@ author_profile: true
 * Guojun Wu, 2020-now (Co-supervised with Prof. Yanhua Li in CS at WPI)
 * Biao Yin, 2020-now (Co-supervised with Prof. Elke A Rundensteiner in Data Science at WPI)
 * [Yun Yue](https://yunyuny.com/), 2020-now, MS from DS @ WPI
+* Yuping Shao, 2021-now, MS from CS @ Georgia Institute of Technology
 
 # Master Students
 * Amey Kulkarni (2020), now at Bastian Solutions
