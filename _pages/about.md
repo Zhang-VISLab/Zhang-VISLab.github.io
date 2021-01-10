@@ -28,6 +28,7 @@ His work "Deep Learning-based Water Detector" won the [R&D100 Award 2018](https:
 ---
 
 # Recent News
+* 01/09/2021. Our 2nd workshop [Vision Applications & Solutions to Biased or Scarce Data](https://wvasbsd.github.io/2021/index.html) at WACV 2021 was held successfully.
 * 11/10/2020. One paper was accepted to **ACS Sensors**.
 * 10/11/2020. Three papers were accepted to **ICPR 2020**.
 * 09/25/2020. One paper was accepted to **NeurIPS 2020**.
