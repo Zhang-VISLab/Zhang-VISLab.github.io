@@ -10,8 +10,7 @@ To date, I have published **2 PAMI, 1 IJCV, 3 NIPS, 1 ICLR, 7 CVPR, 4 ICCV, 3 EC
 ---
 # 2021
 
-P46. Yiming Zhao, Lin Bai, Ziming Zhang, and Xinming Huang. **A Surface Geometry Model for LiDAR Depth Completion**. *IEEE Robotics and Automation
-Letters, 2021.*
+P46. Yiming Zhao, Lin Bai, Ziming Zhang, and Xinming Huang. **A Surface Geometry Model for LiDAR Depth Completion**. *IEEE Robotics and Automation Letters, 2021.*
 
 # 2020
 P45. Feiyun Cui, Yun Yue, Yi Zhang, Ziming Zhang, and H. Susan Zhou. **Advancing Biosensors with Machine Learning**. *ACS Sensors, 2020.*
