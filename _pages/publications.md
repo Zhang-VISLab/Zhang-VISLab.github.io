@@ -9,6 +9,7 @@ To date, I have published **2 PAMI, 1 IJCV, 3 NIPS, 1 ICLR, 7 CVPR, 4 ICCV, 3 EC
 
 ---
 # 2021
+P47. Yiming Zhao, Xinming Huang, and Ziming Zhang. **Deep Lucas-Kanade Homography for Multimodal Image Alignment**. *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2021.*
 
 P46. Yiming Zhao, Lin Bai, Ziming Zhang, and Xinming Huang. **A Surface Geometry Model for LiDAR Depth Completion**. *IEEE Robotics and Automation Letters, 2021.*
 
