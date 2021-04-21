@@ -9,7 +9,7 @@ To date, I have published **2 PAMI, 1 IJCV, 3 NIPS, 1 ICLR, 8 CVPR, 4 ICCV, 3 EC
 
 ---
 # 2021
-P47. Yiming Zhao, Xinming Huang, and Ziming Zhang. **Deep Lucas-Kanade Homography for Multimodal Image Alignment**. *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2021.*
+P47. Yiming Zhao, Xinming Huang, and Ziming Zhang. **Deep Lucas-Kanade Homography for Multimodal Image Alignment**. *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2021.* [Demo code](https://github.com/Zhang-VISLab/CVPR21-Deep-Lucas-Kanade-Homography)
 
 P46. Yiming Zhao, Lin Bai, Ziming Zhang, and Xinming Huang. **A Surface Geometry Model for LiDAR Depth Completion**. *IEEE Robotics and Automation Letters, 2021.*
 
@@ -30,7 +30,7 @@ P39. Keshav Bimbraw, Xihan Ma, Ziming Zhang, and Haichong Zhang. **Augmented Rea
 
 P38. Ce Zheng, Yecheng Lyu, Ming Li, and Ziming Zhang. **LodoNet: A Deep Neural Network with 2D Keypoint Matching for 3D LiDAR Odometry Estimation**. *In Proceeding of ACM International Conference on Multimedia (ACM MM), 2020.*
 
-P37. Yecheng Lyu, Xinming Huang, and Ziming Zhang. **Learning to Segment 3D Point Clouds in 2D Image Space.** *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2020.* **(oral)**
+P37. Yecheng Lyu, Xinming Huang, and Ziming Zhang. **Learning to Segment 3D Point Clouds in 2D Image Space.** *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2020.* **(oral)** [Demo code](https://github.com/Zhang-VISLab/Learning-to-Segment-3D-Point-Clouds-in-2D-Image-Space)
 
 P36. Anil Kag, Ziming Zhang, and Venkatesh Saligrama. **RNNs Incrementally Evolving on an Equilibrium Manifold: A Panacea for Vanishing and Exploding Gradients?** *In Proceeding of International Conference on Learning Representations (ICLR), 2020.*
 
