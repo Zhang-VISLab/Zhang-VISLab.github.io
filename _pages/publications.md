@@ -5,13 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-To date, I have published **3 PAMI, 1 IJCV, 3 NIPS, 1 ICLR, 8 CVPR, 4 ICCV, 3 ECCV, 2 MM, 1 ICDM, 26 in total**. All my publications can be downloaded from [my Google Scholar profile](https://scholar.google.com/citations?user=2yqx3oIAAAAJ&hl=en). Please send me an email with any problem.
+To date, I have published **3 PAMI, 1 IJCV, 3 NIPS, 1 ICLR, 7 CVPR, 4 ICCV, 3 ECCV, 2 MM, 1 ICDM, 26 in total**. All my publications can be downloaded from [my Google Scholar profile](https://scholar.google.com/citations?user=2yqx3oIAAAAJ&hl=en). Please send me an email with any problem.
 
 ---
 # 2021
-P48. Yecheng Lyu, Xinming Huang, and Ziming Zhang. **Revisiting 2D Convolutional Neural Networks for Graph-based Applications.** *IEEE Transaction on Pattern Analysis and Machine Intelligence (TPAMI), 2021.*
-
-P47. Yiming Zhao, Xinming Huang, and Ziming Zhang. **Deep Lucas-Kanade Homography for Multimodal Image Alignment**. *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2021.* [Demo code](https://github.com/Zhang-VISLab/CVPR21-Deep-Lucas-Kanade-Homography)
+P47. Yecheng Lyu, Xinming Huang, and Ziming Zhang. **Revisiting 2D Convolutional Neural Networks for Graph-based Applications.** *IEEE Transaction on Pattern Analysis and Machine Intelligence (TPAMI), 2021.*
 
 P46. Yiming Zhao, Lin Bai, Ziming Zhang, and Xinming Huang. **A Surface Geometry Model for LiDAR Depth Completion**. *IEEE Robotics and Automation Letters, 2021.*
 
