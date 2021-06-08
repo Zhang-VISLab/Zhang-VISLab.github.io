@@ -29,7 +29,6 @@ His work "Deep Learning-based Water Detector" won the [R&D100 Award 2018](https:
 
 # Recent News
 * 05/17/2021. One paper was accepted to **PAMI**.
-* 03/03/2021. One paper was accepted to **CVPR 2021**.
 * 02/23/2021. One paper was accepted to **IEEE Robotics and Automation Letters**.
 * 01/28/2021. Welcome **Yuping Shao** to join our lab!
 * 01/09/2021. Our 2nd workshop [Vision Applications & Solutions to Biased or Scarce Data](https://wvasbsd.github.io/2021/index.html) at WACV 2021 was held successfully.
