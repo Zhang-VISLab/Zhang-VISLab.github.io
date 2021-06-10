@@ -32,7 +32,7 @@ His work "Deep Learning-based Water Detector" won the [R&D100 Award 2018](https:
 * 05/17/2021. One paper was accepted to **PAMI**.
 * 02/25/2021. Invited as a Topic Editor for [Journal of Imaging](https://www.mdpi.com/journal/jimaging/).
 * 02/23/2021. One paper was accepted to **IEEE Robotics and Automation Letters**.
-* 02/19/2021. Guest editor for special issue on [Collective Behavior Analysis and Graph Mining in Social Networks 2021](https://www.hindawi.com/journals/complexity/si/486242/) in [Complexity](https://www.hindawi.com/journals/complexity).
+* 02/19/2021. Guest Editor for special issue on [Collective Behavior Analysis and Graph Mining in Social Networks 2021](https://www.hindawi.com/journals/complexity/si/486242/) in [Complexity](https://www.hindawi.com/journals/complexity).
 * 01/28/2021. Welcome **Yuping Shao** to join our lab!
 * 01/09/2021. Our 2nd workshop [Vision Applications & Solutions to Biased or Scarce Data](https://wvasbsd.github.io/2021/index.html) at WACV 2021 was held successfully. 
 * 11/10/2020. One paper was accepted to **ACS Sensors**.
