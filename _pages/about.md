@@ -28,9 +28,9 @@ His work "Deep Learning-based Water Detector" won the [R&D100 Award 2018](https:
 ---
 
 # Recent News
-* 06/10/2021. Invited as an Associate Editor for [International Robotics & Automation Journal (IRATJ)](https://medcraveonline.com/IRATJ/).
+* 06/10/2021. Invited as an Associate Editor for [International Robotics & Automation Journal](https://medcraveonline.com/IRATJ/).
 * 05/17/2021. One paper was accepted to **PAMI**.
-* 02/25/2021. Invited as a member of Topic Editors for [Journal of Imaging](https://www.mdpi.com/journal/jimaging/).
+* 02/25/2021. Invited as a Topic Editor for [Journal of Imaging](https://www.mdpi.com/journal/jimaging/).
 * 02/23/2021. One paper was accepted to **IEEE Robotics and Automation Letters**.
 * 02/19/2021. Guest editor for special issue on [Collective Behavior Analysis and Graph Mining in Social Networks 2021](https://www.hindawi.com/journals/complexity/si/486242/) in [Complexity](https://www.hindawi.com/journals/complexity).
 * 01/28/2021. Welcome **Yuping Shao** to join our lab!
