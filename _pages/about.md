@@ -31,6 +31,7 @@ His work "Deep Learning-based Water Detector" won the [R&D100 Award 2018](https:
 * 06/14/2021. One paper was accepted to **IEEE International Ultrasonics Symposium (IUS) 2021**.
 * 06/10/2021. Invited as an Associate Editor for [International Robotics & Automation Journal](https://medcraveonline.com/IRATJ/).
 * 05/17/2021. One paper was accepted to **PAMI**.
+* 03/03/2021. One paper was accepted to **CVPR 2021**.
 * 02/25/2021. Invited as a Topic Editor for [Journal of Imaging](https://www.mdpi.com/journal/jimaging/).
 * 02/23/2021. One paper was accepted to **IEEE Robotics and Automation Letters**.
 * 02/19/2021. Guest Editor for special issue on [Collective Behavior Analysis and Graph Mining in Social Networks 2021](https://www.hindawi.com/journals/complexity/si/486242/) in [Complexity](https://www.hindawi.com/journals/complexity).
