@@ -9,7 +9,9 @@ To date, I have published **3 PAMI, 1 IJCV, 3 NIPS, 1 ICLR, 8 CVPR, 4 ICCV, 3 EC
 
 ---
 # 2021
-P49. Ma Xihan, Ziming Zhang, and Haichong Zhang. **Autonomous Scanning Target Localization for Robotic Lung Ultrasound Imaging.** *In Proceeding of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021.*
+P50. Ma Xihan, Ziming Zhang, and Haichong Zhang. **Autonomous Scanning Target Localization for Robotic Lung Ultrasound Imaging.** *In Proceeding of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021.*
+
+P49. Surya Murugavel Ravishankar, Ryosuke Tsumura, John Hardin, Beatrice Hoffmann, Ziming Zhang, and Haichong K. Zhang. **Anatomical Feature-Based Lung Ultrasound Image Assessment Using Deep Convolutional Neural Network.** *In Proceeding of IEEE International Ultrasonics Symposium (IUS), 2021.*
 
 P48. Yiming Zhao, Xinming Huang, and Ziming Zhang. **Deep Lucas-Kanade Homography for Multimodal Image Alignment.** *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2021.*
 
