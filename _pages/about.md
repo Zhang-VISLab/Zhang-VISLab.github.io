@@ -28,6 +28,7 @@ His work "Deep Learning-based Water Detector" won the [R&D100 Award 2018](https:
 ---
 
 # Recent News
+* 07/15/2021. One paper was accepted to **43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) 2021**.
 * 06/30/2021. One paper was accepted to **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2021**.
 * 06/14/2021. One paper was accepted to **IEEE International Ultrasonics Symposium (IUS) 2021**.
 * 06/10/2021. Invited as an Associate Editor for [International Robotics & Automation Journal](https://medcraveonline.com/IRATJ/).
