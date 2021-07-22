@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-To date, I have published **3 PAMI, 1 IJCV, 3 NIPS, 1 ICLR, 8 CVPR, 4 ICCV, 3 ECCV, 2 MM, 1 ICDM, 1 IROS, 27 in total**. All my publications can be downloaded from [my Google Scholar profile](https://scholar.google.com/citations?user=2yqx3oIAAAAJ&hl=en). Please send me an email with any problem.
+To date, I have published **3 PAMI, 1 IJCV, 3 NIPS, 1 ICLR, 8 CVPR, 5 ICCV, 3 ECCV, 2 MM, 1 ICDM, 1 IROS, 28 in total**. All my publications can be downloaded from [my Google Scholar profile](https://scholar.google.com/citations?user=2yqx3oIAAAAJ&hl=en). Please send me an email with any problem.
 
 ---
 # 2021
