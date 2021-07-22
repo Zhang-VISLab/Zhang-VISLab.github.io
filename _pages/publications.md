@@ -9,6 +9,8 @@ To date, I have published **3 PAMI, 1 IJCV, 3 NIPS, 1 ICLR, 8 CVPR, 4 ICCV, 3 EC
 
 ---
 # 2021
+P52. Ming Li, Xinming Huang, and Ziming Zhang. **Self-supervised Geometric Features Discovery with Interpretable Attention for Vehicle Re-Identification and Beyond**, *In Proceeding of International Conference on Computer Vision (ICCV), 2021.*
+
 P51. Johnathan Adams, Ziming Zhang, Gregory Noetscher, Ara Nazarian, and Sergey Makarov. **Application of a Neural Network Classifier to Radiofrequency-Based Osteopenia/Osteoporosis Screening**, *In Proceeding of 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2021.*
 
 P50. Xihan Ma, Ziming Zhang, and Haichong Zhang. **Autonomous Scanning Target Localization for Robotic Lung Ultrasound Imaging.** *In Proceeding of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021.*
