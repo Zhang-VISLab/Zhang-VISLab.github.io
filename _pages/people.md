@@ -21,7 +21,7 @@ author_profile: true
 
 # Master Students
 * Amey Kulkarni (2020), now at Bastian Solutions
-* Avnish Gupta (2021-now)
+* [Avnish Gupta](Avnishgupta143.github.io/portfolio) (2021-now)
 * Pratyush Kumar Sahoo (2021-now)
 
 # Visiting Scholars
