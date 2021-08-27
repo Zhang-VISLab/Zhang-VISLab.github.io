@@ -22,7 +22,7 @@ author_profile: true
 # Master Students
 * Amey Kulkarni (2020), now at Bastian Solutions
 * [Avnish Gupta](Avnishgupta143.github.io/portfolio) (2021-now)
-* Pratyush Kumar Sahoo (2021-now)
+* [Pratyush Kumar Sahoo](https://pks-97.github.io/) (2021-now)
 
 # Visiting Scholars
 * [Ce Zheng](https://zczcwh.github.io), 2019-2020, MS from EE @ Tufts University, now pursuing PhD at NC State University (NCSU)
