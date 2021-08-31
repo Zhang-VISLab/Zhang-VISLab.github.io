@@ -5,11 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-To date, I have published **3 PAMI, 1 IJCV, 3 NIPS, 1 ICLR, 8 CVPR, 5 ICCV, 3 ECCV, 2 MM, 1 ICDM, 1 IROS, 1 CDC, 29 in total**. All my publications can be downloaded from [my Google Scholar profile](https://scholar.google.com/citations?user=2yqx3oIAAAAJ&hl=en). Please send me an email with any problem.
+To date, I have published **3 PAMI, 1 IJCV, 3 NIPS, 1 ICLR, 8 CVPR, 5 ICCV, 3 ECCV, 2 MM, 3 ICDM, 1 IROS, 1 CDC, 31 in total**. All my publications can be downloaded from [my Google Scholar profile](https://scholar.google.com/citations?user=2yqx3oIAAAAJ&hl=en). Please send me an email with any problem.
 
 ---
 # 2021
-P53. Xin Zhang, Weixiao Huang, Yanhua Li, Renjie Liao, and Ziming Zhang. **Imitation Learning From Inconcurrent Multi-Agent Interactions.** *In Proceeding of IEEE Conference on Decision and Control (CDC), 2021* 
+P55. Ziming Zhang, Guojun Wu, Yun Yue, Yanhua Li, and Xun Zhou. **Deep Incremental RNN for Learning Sequential Data: A Lyapunov Stable Dynamical System.** *In Proceeding of IEEE International Conference on Data Mining (ICDM), 2021.* 
+
+P54. Xin Zhang, Yanhua Li, Xun Zhou, Oren Mangoubi, Ziming Zhang, Vincent Filardi, and Jun Luo. **DAC-ML: Domain Adaptable Continuous Meta-Learning for Urban Dynamics Prediction.** *In Proceeding of IEEE International Conference on Data Mining (ICDM), 2021.* 
+
+P53. Xin Zhang, Weixiao Huang, Yanhua Li, Renjie Liao, and Ziming Zhang. **Imitation Learning From Inconcurrent Multi-Agent Interactions.** *In Proceeding of IEEE Conference on Decision and Control (CDC), 2021.* 
 
 P52. Ming Li, Xinming Huang, and Ziming Zhang. **Self-supervised Geometric Features Discovery with Interpretable Attention for Vehicle Re-Identification and Beyond.** *In Proceeding of International Conference on Computer Vision (ICCV), 2021.*
 
