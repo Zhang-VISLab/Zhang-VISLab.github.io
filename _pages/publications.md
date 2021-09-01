@@ -9,6 +9,8 @@ To date, I have published **3 PAMI, 1 IJCV, 3 NIPS, 1 ICLR, 8 CVPR, 5 ICCV, 3 EC
 
 ---
 # 2021
+P56. Johnathan Adams, Ziming Zhang, Gregory Noetscher, Ara Nazarian, and Sergey Makarov. **Application of a Neural Network Classifier to Radiofrequency-Based Osteopenia/Osteoporosis Screening.** *In IEEE Journal of Translational Engineering in Health and Medicine, 2021*
+
 P55. Ziming Zhang, Guojun Wu, Yun Yue, Yanhua Li, and Xun Zhou. **Deep Incremental RNN for Learning Sequential Data: A Lyapunov Stable Dynamical System.** *In Proceeding of IEEE International Conference on Data Mining (ICDM), 2021.* 
 
 P54. Xin Zhang, Yanhua Li, Xun Zhou, Oren Mangoubi, Ziming Zhang, Vincent Filardi, and Jun Luo. **DAC-ML: Domain Adaptable Continuous Meta-Learning for Urban Dynamics Prediction.** *In Proceeding of IEEE International Conference on Data Mining (ICDM), 2021.* 
