@@ -28,6 +28,7 @@ His work "Deep Learning-based Water Detector" won the [R&D100 Award 2018](https:
 ---
 
 # Recent News
+* 10/04/2021. One paper was accepted to **WACV 2021**.
 * 09/28/2021. One paper was accepted to **NeurIPS 2021**.
 * 08/31/2021. One paper was accepted to **IEEE Journal of Translational Engineering in Health and Medicine**.
 * 08/31/2021. Two papers was accepted to **IEEE International Conference on Data Mining (ICDM) 2021** as regular paper.
