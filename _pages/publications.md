@@ -15,7 +15,7 @@ P59. Mahdi Elhousni, Ziming Zhang, and Xinming Huang. **Height Prediction and Re
 
 P58. Yecheng Lyu, Xinming Huang, and Ziming Zhang. **EllipsoidNet: Ellipsoid Representation for Point Cloud Classification and Segmentation.** *In Proceeding of Winter Conference on Applications of Computer Vision (WACV), 2021.*
 
-P57. Ziming Zhang, Yun Yue, Guojun Wu, Yanhua Li, and Haichong Zhang. **meta-RNN: Formulating Recurrent Neural Networks via Online Bilevel Optimization as Meta-Learning.** *In Proceeding of Advances in Neural Information Processing Systems (NeurIPS), 2021.*
+P57. Ziming Zhang, Yun Yue, Guojun Wu, Yanhua Li, and Haichong Zhang. **SBO-RNN: Reformulating Recurrent Neural Networks via Stochastic Bilevel Optimization.** *In Proceeding of Advances in Neural Information Processing Systems (NeurIPS), 2021.*
 
 P56. Johnathan Adams, Ziming Zhang, Gregory Noetscher, Ara Nazarian, and Sergey Makarov. **Application of a Neural Network Classifier to Radiofrequency-Based Osteopenia/Osteoporosis Screening.** *In IEEE Journal of Translational Engineering in Health and Medicine, 2021.*
 
