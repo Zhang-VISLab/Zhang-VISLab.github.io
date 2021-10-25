@@ -8,12 +8,13 @@ author_profile: true
 To date, I have published **3 PAMI, 1 IJCV, 4 NIPS, 1 ICLR, 8 CVPR, 5 ICCV, 3 ECCV, 2 MM, 3 ICDM, 1 IROS, 1 CDC, 32 in total**. All my publications can be downloaded from [my Google Scholar profile](https://scholar.google.com/citations?user=2yqx3oIAAAAJ&hl=en). Please send me an email with any problem.
 
 ---
+# 2022
+P60. Yecheng Lyu, Xinming Huang, and Ziming Zhang. **EllipsoidNet: Ellipsoid Representation for Point Cloud Classification and Segmentation.** *In Proceeding of Winter Conference on Applications of Computer Vision (WACV), 2022.*
+
 # 2021
-P60. Biao Yin, Nicholas Josselyn, Thomas Considine, John Kelley, Berend Rinderspacher, Robert Jensen, James Snyder, Ziming Zhang, and Elke Rundensteiner. **Corrosion Image Data Set for Automating Scientific Assessment of Materials.** *In Proceeding of British Machine Vision Conference (BMVC), 2021.*
+P59. Biao Yin, Nicholas Josselyn, Thomas Considine, John Kelley, Berend Rinderspacher, Robert Jensen, James Snyder, Ziming Zhang, and Elke Rundensteiner. **Corrosion Image Data Set for Automating Scientific Assessment of Materials.** *In Proceeding of British Machine Vision Conference (BMVC), 2021.*
 
-P59. Mahdi Elhousni, Ziming Zhang, and Xinming Huang. **Height Prediction and Refinement from Aerial Images with Semantic and Geometric Guidance.** *In IEEE Access, 2021.*
-
-P58. Yecheng Lyu, Xinming Huang, and Ziming Zhang. **EllipsoidNet: Ellipsoid Representation for Point Cloud Classification and Segmentation.** *In Proceeding of Winter Conference on Applications of Computer Vision (WACV), 2021.*
+P58. Mahdi Elhousni, Ziming Zhang, and Xinming Huang. **Height Prediction and Refinement from Aerial Images with Semantic and Geometric Guidance.** *In IEEE Access, 2021.*
 
 P57. Ziming Zhang, Yun Yue, Guojun Wu, Yanhua Li, and Haichong Zhang. **SBO-RNN: Reformulating Recurrent Neural Networks via Stochastic Bilevel Optimization.** *In Proceeding of Advances in Neural Information Processing Systems (NeurIPS), 2021.*
 
