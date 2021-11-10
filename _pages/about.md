@@ -26,6 +26,7 @@ I am an assistant professor at Worcester Polytechnic Institute. Before joining W
 ---
 
 # Recent News
+* 11/10/2021. One paper was accepted to **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.
 * 10/15/2021. One paper was accepted to **BMVC 2021**.
 * 10/14/2021. One paper was accepted to **IEEE Access**.
 * 10/04/2021. One paper was accepted to **WACV 2022**.
