@@ -12,7 +12,7 @@ To date, I have published **3 PAMI, 1 IJCV, 4 NIPS, 1 ICLR, 8 CVPR, 5 ICCV, 3 EC
 P61. Yecheng Lyu, Xinming Huang, and Ziming Zhang. **EllipsoidNet: Ellipsoid Representation for Point Cloud Classification and Segmentation.** *In Proceeding of Winter Conference on Applications of Computer Vision (WACV), 2022.*
 
 # 2021
-P60. Yiming Zhao, Mahdi Elhousni, Ziming Zhang, and Xinming Huang. **Distance Transform Pooling Neural Network for LiDAR Depth Completion** *In IEEE Transactions on Neural Networks and Learning Systems, 2021.*
+P60. Yiming Zhao, Mahdi Elhousni, Ziming Zhang, and Xinming Huang. **Distance Transform Pooling Neural Network for LiDAR Depth Completion.** *In IEEE Transactions on Neural Networks and Learning Systems, 2021.*
 
 P59. Biao Yin, Nicholas Josselyn, Thomas Considine, John Kelley, Berend Rinderspacher, Robert Jensen, James Snyder, Ziming Zhang, and Elke Rundensteiner. **Corrosion Image Data Set for Automating Scientific Assessment of Materials.** *In Proceeding of British Machine Vision Conference (BMVC), 2021.*
 
