@@ -26,6 +26,7 @@ I am an assistant professor at Worcester Polytechnic Institute. Before joining W
 ---
 
 # Recent News
+* 11/23/2021. Welcome **Fangzhou Lin** to join our lab as a visiting scholar!
 * 11/10/2021. One paper was accepted to **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.
 * 10/15/2021. One paper was accepted to **BMVC 2021**.
 * 10/14/2021. One paper was accepted to **IEEE Access**.
@@ -34,6 +35,7 @@ I am an assistant professor at Worcester Polytechnic Institute. Before joining W
 * 09/01/2021. Welcome **Xuechu Yu** to join our lab!
 * 08/31/2021. One paper was accepted to **IEEE Journal of Translational Engineering in Health and Medicine**.
 * 08/31/2021. Two papers was accepted to **IEEE International Conference on Data Mining (ICDM) 2021** as regular paper.
+* 08/25/2021. Welcome **Yiqing Zhang** to join our lab!
 * 07/27/2021. One paper was accepted to **IEEE Conference on Decision and Control (CDC) 2021**.
 * 07/22/2021. One paper was accepted to **International Conference on Computer Vision (ICCV) 2021**.
 * 07/15/2021. One paper was accepted to **43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) 2021**.
