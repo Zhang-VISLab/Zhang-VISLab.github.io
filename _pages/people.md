@@ -28,4 +28,4 @@ author_profile: true
 # Visiting Scholars
 * [Ce Zheng](https://zczcwh.github.io), 2019-2020, MS from EE @ Tufts University, now pursuing PhD at NC State University (NCSU)
 * [Ming Li](https://ming1993li.github.io), 2019-2021, MS from EECS @ Peking University, China, now pursuing PhD at National University of Singapore (NUS)
-* Fangzhou lin, 2021-now, MS from Tohoku University, Japan.
+* Fangzhou Lin, 2021-now, MS from Tohoku University, Japan.
