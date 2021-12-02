@@ -21,6 +21,7 @@ author_profile: true
 
 # Master Students
 * Amey Kulkarni (2020), now at Bastian Solutions
+* Nikhil Jonnavithula (2021), now at Analog Devices
 * [Avnish Gupta](Avnishgupta143.github.io/portfolio) (2021-now)
 * [Pratyush Kumar Sahoo](https://pks-97.github.io/) (2021-now)
 
