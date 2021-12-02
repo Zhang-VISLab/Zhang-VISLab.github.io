@@ -17,7 +17,7 @@ author_profile: true
 * [Yun Yue](https://yunyuny.com/), 2020-now, MS from DS @ WPI
 * Yuping Shao, 2021-now, MS from CS @ Georgia Institute of Technology
 * Yiqing Zhang, 2021-now, MS from DS @ WPI
-* Xuechu Yu, 2021-now, MS from Electrical and Electronic Engineering @ Huazhong University of Science and Technology (HUST)
+* Xuechu Yu, 2021-now, MS from Electrical and Electronic Engineering @ Huazhong University of Science and Technology (HUST), China
 
 # Master Students
 * Amey Kulkarni (2020), now at Bastian Solutions
@@ -26,4 +26,5 @@ author_profile: true
 
 # Visiting Scholars
 * [Ce Zheng](https://zczcwh.github.io), 2019-2020, MS from EE @ Tufts University, now pursuing PhD at NC State University (NCSU)
-* [Ming Li](https://ming1993li.github.io), 2019-2021, MS from EECS @ Peking University, now pursuing PhD at National University of Singapore (NUS)
+* [Ming Li](https://ming1993li.github.io), 2019-2021, MS from EECS @ Peking University, China, now pursuing PhD at National University of Singapore (NUS)
+* Fangzhou lin, 2021-now, MS from Tohoku University, Japan.
