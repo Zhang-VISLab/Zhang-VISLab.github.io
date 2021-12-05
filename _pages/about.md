@@ -26,6 +26,7 @@ I am an assistant professor at Worcester Polytechnic Institute. Before joining W
 ---
 
 # Recent News
+* 12/04/2021. One paper was accepted to **IEEE Transactions on Multimedia (TMM)**.
 * 11/23/2021. Welcome **Fangzhou Lin** to join our lab as a visiting scholar!
 * 11/10/2021. One paper was accepted to **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.
 * 10/15/2021. One paper was accepted to **BMVC 2021**.
