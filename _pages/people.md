@@ -11,8 +11,6 @@ author_profile: true
 * [Prof. Xinming Huang](http://users.wpi.edu/~xhuang/)
 
 # PhD Students
-* Yecheng Lyu, 2019-now (Co-supervised with Prof. Xinming Huang in ECE at WPI)
-* Guojun Wu, 2020-now (Co-supervised with Prof. Yanhua Li in CS at WPI)
 * Biao Yin, 2020-now (Co-supervised with Prof. Elke A Rundensteiner in Data Science at WPI)
 * [Yun Yue](https://yunyuny.com/), 2020-now, MS from DS @ WPI
 * Yuping Shao, 2021-now, MS from CS @ Georgia Institute of Technology
@@ -29,3 +27,7 @@ author_profile: true
 * [Ce Zheng](https://zczcwh.github.io), 2019-2020, MS from EE @ Tufts University, now pursuing PhD at NC State University (NCSU)
 * [Ming Li](https://ming1993li.github.io), 2019-2021, MS from EECS @ Peking University, China, now pursuing PhD at National University of Singapore (NUS)
 * Fangzhou Lin, 2021-now, PhD from Tohoku University, Japan.
+
+# Graduated PhD Students
+* Yecheng Lyu, departed to Volvo, US
+* Guojun Wu, departed to ByteDance, Beijing (字节跳动)
