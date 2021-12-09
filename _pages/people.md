@@ -29,5 +29,5 @@ author_profile: true
 * Fangzhou Lin, 2021-now, PhD from Tohoku University, Japan.
 
 # Graduated PhD Students
-* Yecheng Lyu, departed to Volvo, US
-* Guojun Wu, departed to ByteDance, Beijing (字节跳动)
+* Yecheng Lyu (2019-2021, co-supervised with Prof. Xinming Huang in ECE at WPI), departed to Volvo, US
+* Guojun Wu (2020-2021, co-supervised with Prof. Yanhua Li in CS at WPI), departed to ByteDance, Beijing (字节跳动)
