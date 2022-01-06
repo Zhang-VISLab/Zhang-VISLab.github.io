@@ -26,6 +26,7 @@ I am an assistant professor at Worcester Polytechnic Institute. Before joining W
 ---
 
 # Recent News
+* 01/06/2022. Invited as an Editor for [Journal of Information Technology and Integrity](https://gexinonline.com/journal/journal-of-information-technology-and-integrity/).
 * 12/09/2021. Congratulations to **Dr. Yecheng Lyu** to pass his PhD thesis defense!!!
 * 12/09/2021. Congratulations to **Dr. Guojun Wu** to pass his PhD thesis defense!!!
 * 12/04/2021. One paper was accepted to **IEEE Transactions on Multimedia (TMM)**.
