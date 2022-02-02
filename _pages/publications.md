@@ -5,10 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-To date, I have published **3 PAMI, 1 IJCV, 4 NIPS, 1 ICLR, 8 CVPR, 5 ICCV, 3 ECCV, 2 MM, 3 ICDM, 1 IROS, 1 CDC, 32 in total**. All my publications can be downloaded from [my Google Scholar profile](https://scholar.google.com/citations?user=2yqx3oIAAAAJ&hl=en). Please send me an email with any problem.
+To date, I have published **3 PAMI, 1 IJCV, 4 NIPS, 1 ICLR, 8 CVPR, 5 ICCV, 3 ECCV, 2 MM, 3 ICDM, 1 IROS, 1 ICRA, 1 CDC, 33 in total**. All my publications can be downloaded from [my Google Scholar profile](https://scholar.google.com/citations?user=2yqx3oIAAAAJ&hl=en). Please send me an email with any problem.
 
 ---
 # 2022
+P63. Keshav Bimbraw, Christopher J Nycz, Matthew Schueler, Ziming Zhang, and Haichong Zhang. **Prediction of Metacarpophalangeal joint angles and Classification of Hand configurations based on Ultrasound Imaging of the Forearm.** *In Proceeding of IEEE International Conference on Robotics and Automation (ICRA), 2022.*
+
 P62. Yecheng Lyu, Xinming Huang, and Ziming Zhang. **EllipsoidNet: Ellipsoid Representation for Point Cloud Classification and Segmentation.** *In Proceeding of Winter Conference on Applications of Computer Vision (WACV), 2022.*
 
 # 2021
