@@ -26,6 +26,7 @@ I am an assistant professor at Worcester Polytechnic Institute. Before joining W
 ---
 
 # Recent News
+* 02/08/2022. One paper was accepted to **Pattern Recognition**.
 * 01/31/2022. One paper was accepted to **IEEE International Conference on Robotics and Automation (ICRA), 2022**.
 * 01/06/2022. Invited as an Editor for [Journal of Information Technology and Integrity](https://gexinonline.com/journal/journal-of-information-technology-and-integrity/).
 * 12/09/2021. Congratulations to **Dr. Yecheng Lyu** to pass his PhD thesis defense!!!
@@ -35,6 +36,7 @@ I am an assistant professor at Worcester Polytechnic Institute. Before joining W
 * 11/10/2021. One paper was accepted to **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.
 * 10/15/2021. One paper was accepted to **BMVC 2021**.
 * 10/14/2021. One paper was accepted to **IEEE Access**.
+* 10/11/2021. Our work "Neural Activity & Visual Stimuli: How the Brain Sees Video" earned the **best poster award** in **IEEE MIT Undergraduate Research Technology Conference (URTC), 2021.**
 * 10/04/2021. One paper was accepted to **WACV 2022**.
 * 09/28/2021. One paper was accepted to **NeurIPS 2021**.
 * 09/01/2021. Welcome **Xuechu Yu** to join our lab!
