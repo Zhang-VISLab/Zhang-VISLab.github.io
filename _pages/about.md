@@ -36,7 +36,7 @@ I am an assistant professor at Worcester Polytechnic Institute. Before joining W
 * 11/10/2021. One paper was accepted to **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.
 * 10/15/2021. One paper was accepted to **BMVC 2021**.
 * 10/14/2021. One paper was accepted to **IEEE Access**.
-* 10/11/2021. Our work "Neural Activity & Visual Stimuli: How the Brain Sees Video" earned the **best poster award** in **IEEE MIT Undergraduate Research Technology Conference (URTC), 2021.**
+* 10/11/2021. Our work "Neural Activity & Visual Stimuli: How the Brain Sees Video" earned the **best poster award**[https://www.youtube.com/watch?v=-BV2B5okz_s&list=PL2yP2hgZp_0pUavqp8Fr26fZc_3qWzR5y&index=10] in **IEEE MIT Undergraduate Research Technology Conference (URTC), 2021.**
 * 10/04/2021. One paper was accepted to **WACV 2022**.
 * 09/28/2021. One paper was accepted to **NeurIPS 2021**.
 * 09/01/2021. Welcome **Xuechu Yu** to join our lab!
