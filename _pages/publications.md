@@ -9,7 +9,7 @@ To date, I have published **3 PAMI, 1 IJCV, 4 NIPS, 1 ICLR, 8 CVPR, 5 ICCV, 3 EC
 
 ---
 # 2022
-P64. Shuaiyuan Du, Chaoyi Hong, Yinpeng Chen, ZhiguoCao, and Ziming Zhang. **Class-attribute inconsistency learning for novelty detection.** *In Pattern Recognition, 2022.*
+P64. Shuaiyuan Du, Chaoyi Hong, Yinpeng Chen, Zhiguo Cao, and Ziming Zhang. **Class-attribute inconsistency learning for novelty detection.** *In Pattern Recognition, 2022.*
 
 P63. Keshav Bimbraw, Christopher J Nycz, Matthew Schueler, Ziming Zhang, and Haichong Zhang. **Prediction of Metacarpophalangeal joint angles and Classification of Hand configurations based on Ultrasound Imaging of the Forearm.** *In Proceeding of IEEE International Conference on Robotics and Automation (ICRA), 2022.*
 
