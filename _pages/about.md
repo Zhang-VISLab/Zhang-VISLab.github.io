@@ -26,6 +26,7 @@ I am an assistant professor at Worcester Polytechnic Institute. Before joining W
 ---
 
 # Recent News
+* 03/02/2022. I gave a talk "On the training stability of recurrent neural networks" at [AI TIME](http://www.aitime.cn)
 * 03/01/2022. One paper was accepted to **CVPR 2022**.
 * 02/08/2022. One paper was accepted to **Pattern Recognition**.
 * 01/31/2022. One paper was accepted to **IEEE International Conference on Robotics and Automation (ICRA), 2022**.
