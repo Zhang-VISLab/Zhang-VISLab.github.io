@@ -26,6 +26,7 @@ I am an assistant professor at Worcester Polytechnic Institute. Before joining W
 ---
 
 # Recent News
+* 03/01/2022. One paper was accepted to **CVPR 2022**.
 * 02/08/2022. One paper was accepted to **Pattern Recognition**.
 * 01/31/2022. One paper was accepted to **IEEE International Conference on Robotics and Automation (ICRA), 2022**.
 * 01/06/2022. Invited as an Editor for [Journal of Information Technology and Integrity](https://gexinonline.com/journal/journal-of-information-technology-and-integrity/).
