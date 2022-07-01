@@ -9,6 +9,8 @@ To date, I have published **3 PAMI, 1 IJCV, 4 NIPS, 1 ICLR, 9 CVPR, 5 ICCV, 3 EC
 
 ---
 # 2022
+P66. R. Majidi, A. Kiapour, V. Entezari, M. Ghasemi, Z. Zhang and E. Clancy. **Artificial Intelligence Based Muscle Activity and Muscle Monitoring Tracker with Wireless Sensor System.** *In Proceeding of the Twenty Fourth Congress of the International Society of Electrophysiology and Kinesiology, Quebec City, PQ, Canada, 22–25 June, 2022.*
+
 P65. Kaidong Li\*, Ziming Zhang\*, Cuncong Zhong, and Guanghui Wang. **Robust Structured Declarative Classifiers for 3D Point Clouds: Defending Adversarial Attacks with Implicit Gradients.** *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2022.*
 
 P64. Shuaiyuan Du, Chaoyi Hong, Yinpeng Chen, Zhiguo Cao, and Ziming Zhang. **Class-attribute inconsistency learning for novelty detection.** *In Pattern Recognition, 2022.*
