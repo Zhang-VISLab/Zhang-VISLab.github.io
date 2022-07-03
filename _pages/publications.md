@@ -5,10 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-To date, I have published **3 PAMI, 1 IJCV, 4 NIPS, 1 ICLR, 9 CVPR, 5 ICCV, 3 ECCV, 2 MM, 3 ICDM, 1 IROS, 1 ICRA, 1 CDC, 34 in total**. All my publications can be downloaded from [my Google Scholar profile](https://scholar.google.com/citations?user=2yqx3oIAAAAJ&hl=en). Please send me an email with any problem.
+To date, I have published **3 PAMI, 1 IJCV, 4 NIPS, 1 ICLR, 9 CVPR, 5 ICCV, 4 ECCV, 2 MM, 3 ICDM, 1 IROS, 1 ICRA, 1 CDC, 35 in total**. All my publications can be downloaded from [my Google Scholar profile](https://scholar.google.com/citations?user=2yqx3oIAAAAJ&hl=en). Please send me an email with any problem.
 
 ---
 # 2022
+P67. Chengxin Liu, Kewei Wang, Hao Lu, Zhiguo Cao, and Ziming Zhang. **Robust Object Detection With Inaccurate Bounding Boxes.** *In Proceeding of European Conference on Computer Vision (ECCV), 2022.*
+
 P66. R. Majidi, A. Kiapour, V. Entezari, M. Ghasemi, Z. Zhang and E. Clancy. **Artificial Intelligence Based Muscle Activity and Muscle Monitoring Tracker with Wireless Sensor System.** *In Proceeding of the Twenty Fourth Congress of the International Society of Electrophysiology and Kinesiology, Quebec City, PQ, Canada, 22–25 June, 2022.*
 
 P65. Kaidong Li\*, Ziming Zhang\*, Cuncong Zhong, and Guanghui Wang. **Robust Structured Declarative Classifiers for 3D Point Clouds: Defending Adversarial Attacks with Implicit Gradients.** *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2022.*
