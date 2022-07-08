@@ -9,6 +9,8 @@ To date, I have published **3 PAMI, 1 IJCV, 4 NIPS, 1 ICLR, 9 CVPR, 5 ICCV, 4 EC
 
 ---
 # 2022
+P68. Mahdi Elhousni, Ziming Zhang, and Xinming Huang. **LiDAR-OSM Based Vehicle Localization Using Constrained Particle Filter.** *In Sensors, 2022.*
+
 P67. Chengxin Liu, Kewei Wang, Hao Lu, Zhiguo Cao, and Ziming Zhang. **Robust Object Detection With Inaccurate Bounding Boxes.** *In Proceeding of European Conference on Computer Vision (ECCV), 2022.*
 
 P66. R. Majidi, A. Kiapour, V. Entezari, M. Ghasemi, Z. Zhang and E. Clancy. **Artificial Intelligence Based Muscle Activity and Muscle Monitoring Tracker with Wireless Sensor System.** *In Proceeding of the Twenty Fourth Congress of the International Society of Electrophysiology and Kinesiology, Quebec City, PQ, Canada, 22–25 June, 2022.*
