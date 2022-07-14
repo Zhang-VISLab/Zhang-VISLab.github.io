@@ -29,6 +29,7 @@ I am an assistant professor at Worcester Polytechnic Institute. Before joining W
 * 07/08/2022. One paper was accepted to **Sensors**.
 * 07/03/2022. One paper was accepted to **ECCV 2022**.
 * 06/27/2022. One paper was accepted to **Twenty Fourth Congress of the International Society of Electrophysiology and Kinesiology**.
+* 06/17/2022. One paper was accepted to **Neurocomputing**.
 * 04/22/2022. My co-supervised project "A Portable Teleoperated Robot for Ultrasound Diagnostic Imaging" won the 2nd place in the MQP competition in Mechanical Engineering at WPI.
 * 03/02/2022. I gave a talk "On the training stability of recurrent neural networks" at [AI TIME](http://www.aitime.cn)
 * 03/01/2022. One paper was accepted to **CVPR 2022**.
