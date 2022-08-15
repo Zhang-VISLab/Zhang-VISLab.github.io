@@ -9,7 +9,7 @@ To date, I have published **3 PAMI, 1 IJCV, 4 NIPS, 1 ICLR, 9 CVPR, 5 ICCV, 4 EC
 
 ---
 # 2022
-P69. Mahdi Elhousni, Ziming Zhang, and Xinming Huang. **LiDAR-OSM Based Vehicle Localization Using Constrained Particle Filter.** *In Sensors, 2022.*
+P69. Mahdi Elhousni, Ziming Zhang, and Xinming Huang. **LiDAR-OSM-Based Vehicle Localization in GPS-Denied Environments by Using Constrained Particle Filter.** *In Sensors, 2022.*
 
 P68. Chengxin Liu, Kewei Wang, Hao Lu, Zhiguo Cao, and Ziming Zhang. **Robust Object Detection with Inaccurate Bounding Boxes.** *In Proceeding of European Conference on Computer Vision (ECCV), 2022.*
 
