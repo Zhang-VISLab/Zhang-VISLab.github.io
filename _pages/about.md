@@ -26,6 +26,7 @@ I am an assistant professor at Worcester Polytechnic Institute. Before joining W
 ---
 
 # Recent News
+* 08/23/2022. One paper was accepted to **ACM SIGSPATIAL 2022**.
 * 07/08/2022. One paper was accepted to **Sensors**.
 * 07/03/2022. One paper was accepted to **ECCV 2022**.
 * 06/27/2022. One paper was accepted to **Twenty Fourth Congress of the International Society of Electrophysiology and Kinesiology**.
