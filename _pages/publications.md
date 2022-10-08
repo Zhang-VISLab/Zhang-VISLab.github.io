@@ -9,6 +9,8 @@ To date, I have published **3 PAMI, 1 IJCV, 4 NIPS, 1 ICLR, 9 CVPR, 5 ICCV, 4 EC
 
 ---
 # 2022
+P72. Nicholas Josselyn, Biao Yin, Thomas Considine, John Kelley, Berend Rinderspacher, Robert Jensen, James Snyder, Ziming Zhang, and Elke Rundensteiner. **Transferring Indoor Corrosion Image Assessment Models to Outdoor Images via Domain Adaptation.** *In Proceeding of IEEE International Conference on Machine Learning and Applications (ICMLA), 2022.*
+
 P71. Rebecca Dollahite\*, Kevin Wang\*, Kaidong Li, Yiqing Zhang, and Ziming Zhang. **Verifying Adversarial Robustness of 3D Object Detectors for Autonomous Vehicles.** *In Proceeding of IEEE MIT Undergraduate Research Technology Conference, 2022.*
 
 P70. Yichen Ding, Ziming Zhang, Yanhua Li, and Xun Zhou. **EgoSpeed-Net: Forecasting Speed-Control in Driver Behavior from Egocentric Video Data.** *In Proceeding of ACM SIGSPATIAL, 2022.* **(oral)**
