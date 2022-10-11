@@ -8,6 +8,9 @@ author_profile: true
 To date, I have published **3 PAMI, 1 IJCV, 4 NIPS, 1 ICLR, 9 CVPR, 5 ICCV, 4 ECCV, 2 MM, 3 ICDM, 1 IROS, 1 ICRA, 1 CDC, 35 in total**. All my publications can be downloaded from [my Google Scholar profile](https://scholar.google.com/citations?user=2yqx3oIAAAAJ&hl=en). Please send me an email with any problem.
 
 ---
+# 2023
+P73. Guojun Wu, Xin Zhang, Ziming Zhang, Yanhua Li, Xun Zhou, Christopher Brinton, and Zhenming Liu. **Learning Lightweight Neural Networks via Channel-Split Recurrent Convolution.** *In Proceeding of Winter Conference on Applications of Computer Vision (WACV), 2023.*
+
 # 2022
 P72. Nicholas Josselyn, Biao Yin, Thomas Considine, John Kelley, Berend Rinderspacher, Robert Jensen, James Snyder, Ziming Zhang, and Elke Rundensteiner. **Transferring Indoor Corrosion Image Assessment Models to Outdoor Images via Domain Adaptation.** *In Proceeding of IEEE International Conference on Machine Learning and Applications (ICMLA), 2022.*
 
