@@ -26,6 +26,7 @@ I am an assistant professor at Worcester Polytechnic Institute. Before joining W
 ---
 
 # Recent News
+* 10/29/2022. One paper was accepted to **BigData 2022**.
 * 10/10/2022. One paper was accepted to **WACV 2023**.
 * 10/07/2022. One paper was accepted to **IEEE International Conference on Machine Learning and Applications (ICMLA 2022)**.
 * 08/30/2022. Our REU work (undergrad team) was accepted to **IEEE MIT Undergraduate Research Technology Conference 2022**.
