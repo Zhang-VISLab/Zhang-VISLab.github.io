@@ -9,13 +9,16 @@ To date, I have published **3 PAMI, 1 IJCV, 4 NIPS, 1 ICLR, 9 CVPR, 5 ICCV, 4 EC
 
 ---
 # 2023
-P76. Rabeeh Majidi, Mehdi Ghasemi, Ziming Zhang, Edward A. Clancy, Vahid Entezari, and Ali Kiapour. **AI-based Wearable Device For Tracking Shoulder Joint Kinematics And Muscle Activity In Subjects With Fshd Disease.** *In Proceeding of Orthopaedic Research Society (ORS) Annual Meeting, 2023.*
+P77. Rabeeh Majidi, Mehdi Ghasemi, Ziming Zhang, Edward A. Clancy, Vahid Entezari, and Ali Kiapour. **AI-based Wearable Device For Tracking Shoulder Joint Kinematics And Muscle Activity In Subjects With Fshd Disease.** *In Proceeding of Orthopaedic Research Society (ORS) Annual Meeting, 2023.*
 
-P75. Rabeeh Majidi, Vahid Entezari, Ziming Zhang, Edward A. Clancy, and Ali Kiapour. **Ai-based Wireless Sensor System For Tracking Muscle Activity And Kinematics Of The Shoulder Joint.** *In Proceeding of Orthopaedic Research Society (ORS) Annual Meeting, 2023.* **(PODIUM presentation)**
+P76. Rabeeh Majidi, Vahid Entezari, Ziming Zhang, Edward A. Clancy, and Ali Kiapour. **Ai-based Wireless Sensor System For Tracking Muscle Activity And Kinematics Of The Shoulder Joint.** *In Proceeding of Orthopaedic Research Society (ORS) Annual Meeting, 2023.* **(PODIUM presentation)**
 
-P74. Guojun Wu, Xin Zhang, Ziming Zhang, Yanhua Li, Xun Zhou, Christopher Brinton, and Zhenming Liu. **Learning Lightweight Neural Networks via Channel-Split Recurrent Convolution.** *In Proceeding of Winter Conference on Applications of Computer Vision (WACV), 2023.*
+P75. Guojun Wu, Xin Zhang, Ziming Zhang, Yanhua Li, Xun Zhou, Christopher Brinton, and Zhenming Liu. **Learning Lightweight Neural Networks via Channel-Split Recurrent Convolution.** *In Proceeding of Winter Conference on Applications of Computer Vision (WACV), 2023.*
 
 # 2022
+P74. Keshav Bimbraw, Christopher Nycz, Matthew Schueler, Ziming Zhang, and Haichong Zhang. **Simultaneous Estimation of Hand Configurations and Finger Joint Angles using Forearm Ultrasound.** *In IEEE Transactions on Medical Robotics and Bionics, 2022.*
+
+
 P73. Nicholas Josselyn, Biao Yin, Ziming Zhang, and Elke Rundensteiner. **An Empirical Study of Domain Adaptation: Are We Really Learning Transferable Representations?** *In Proceeding of IEEE International Conference on Big Data Special session MLBD, 2022.*
 
 P72. Nicholas Josselyn, Biao Yin, Thomas Considine, John Kelley, Berend Rinderspacher, Robert Jensen, James Snyder, Ziming Zhang, and Elke Rundensteiner. **Transferring Indoor Corrosion Image Assessment Models to Outdoor Images via Domain Adaptation.** *In Proceeding of IEEE International Conference on Machine Learning and Applications (ICMLA), 2022.*
