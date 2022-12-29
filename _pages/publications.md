@@ -9,6 +9,10 @@ To date, I have published **3 PAMI, 1 IJCV, 4 NIPS, 1 ICLR, 9 CVPR, 5 ICCV, 4 EC
 
 ---
 # 2023
+P79. Yingxue Zhang, Yanhua Li, Xun Zhou, Ziming Zhang, and Jun Luo. **STM-GAIL: Spatial-Temporal Meta-GAIL for Learning Diverse Human Driving Strategies.** *In Proceeding of SIAM International Conference on Data Mining (SDM), 2023.*
+
+P78. Xin Zhang, Yanhua Li, Ziming Zhang, and Zhi-Li Zhang. **Domain Disentangled Meta-Learning.** *In Proceeding of SIAM International Conference on Data Mining (SDM), 2023.*
+
 P77. Rabeeh Majidi, Mehdi Ghasemi, Ziming Zhang, Edward A. Clancy, Vahid Entezari, and Ali Kiapour. **AI-based Wearable Device For Tracking Shoulder Joint Kinematics And Muscle Activity In Subjects With Fshd Disease.** *In Proceeding of Orthopaedic Research Society (ORS) Annual Meeting, 2023.*
 
 P76. Rabeeh Majidi, Vahid Entezari, Ziming Zhang, Edward A. Clancy, and Ali Kiapour. **Ai-based Wireless Sensor System For Tracking Muscle Activity And Kinematics Of The Shoulder Joint.** *In Proceeding of Orthopaedic Research Society (ORS) Annual Meeting, 2023.* **(PODIUM presentation)**
