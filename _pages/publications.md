@@ -9,6 +9,10 @@ To date, I have published **3 PAMI, 1 IJCV, 4 NIPS, 1 ICLR, 9 CVPR, 5 ICCV, 4 EC
 
 ---
 # 2023
+P81. M. Caner Tol, Saad Islam, Andrew J. Adiletta, Berk Sunar, and Ziming Zhang. **Don’t Knock! Rowhammer at the Backdoor of DNN Models.** *In Proceeding of The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Network (IEEE IFIP DSN), 2023*
+
+P80. Yiqing Zhang, Xinming Huang, and Ziming Zhang. **PRISE: Demystifying Deep Lucas-Kanade with Strongly Star-Convex Constraints for Multimodel Image Alignment.** *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2023.*
+
 P79. Yingxue Zhang, Yanhua Li, Xun Zhou, Ziming Zhang, and Jun Luo. **STM-GAIL: Spatial-Temporal Meta-GAIL for Learning Diverse Human Driving Strategies.** *In Proceeding of SIAM International Conference on Data Mining (SDM), 2023.*
 
 P78. Xin Zhang, Yanhua Li, Ziming Zhang, and Zhi-Li Zhang. **Domain Disentangled Meta-Learning.** *In Proceeding of SIAM International Conference on Data Mining (SDM), 2023.*
