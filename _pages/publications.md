@@ -5,13 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-To date, I have published **3 PAMI, 1 IJCV, 4 NIPS, 1 ICLR, 10 CVPR, 5 ICCV, 4 ECCV, 2 MM, 3 ICDM, 1 IROS, 1 ICRA, 1 CDC, 35 in total**. All my publications can be downloaded from [my Google Scholar profile](https://scholar.google.com/citations?user=2yqx3oIAAAAJ&hl=en). Please send me an email with any problem.
+To date, I have published **3 PAMI, 1 IJCV, 4 NIPS, 1 ICLR, 10 CVPR, 5 ICCV, 4 ECCV, 2 MM, 3 ICDM, 1 IROS, 1 ICRA, 1 CDC, 36 in total**. All my publications can be downloaded from [my Google Scholar profile](https://scholar.google.com/citations?user=2yqx3oIAAAAJ&hl=en). Please send me an email with any problem.
 
 ---
 # 2023
 P81. M. Caner Tol, Saad Islam, Andrew J. Adiletta, Berk Sunar, and Ziming Zhang. **Don’t Knock! Rowhammer at the Backdoor of DNN Models.** *In Proceeding of The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Network (IEEE IFIP DSN), 2023*
 
-P80. Yiqing Zhang, Xinming Huang, and Ziming Zhang. **PRISE: Demystifying Deep Lucas-Kanade with Strongly Star-Convex Constraints for Multimodel Image Alignment.** *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2023.*
+P80. Yiqing Zhang, Xinming Huang, and Ziming Zhang. **PRISE: Demystifying Deep Lucas-Kanade with Strongly Star-Convex Constraints for Multimodel Image Alignment.** *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2023.* **(a highlight paper)**
 
 P79. Yingxue Zhang, Yanhua Li, Xun Zhou, Ziming Zhang, and Jun Luo. **STM-GAIL: Spatial-Temporal Meta-GAIL for Learning Diverse Human Driving Strategies.** *In Proceeding of SIAM International Conference on Data Mining (SDM), 2023.*
 
