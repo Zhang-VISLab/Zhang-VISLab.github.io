@@ -27,7 +27,7 @@ I am an assistant professor at Worcester Polytechnic Institute. Before joining W
 
 # Recent News
 * 03/17/2023. One paper was accepted to **The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Network (IEEE IFIP DSN 2023)**.
-* 02/27/2023. One paper was accepted to **CVPR 2023**.
+* 02/27/2023. One paper was accepted to **CVPR 2023** as a **highlight**.
 * 12/26/2022. Two papers was accepted to **SIAM International Conference on Data Mining (SDM 2023)**.
 * 11/24/2022. One paper was accepted to **IEEE Transactions on Medical Robotics and Bionics**.
 * 11/09/2022. Two papers were accepted to **Orthopaedic Research Society (ORS) Annual Meeting, 2023**.
