@@ -26,9 +26,13 @@ I am an assistant professor at Worcester Polytechnic Institute. Before joining W
 ---
 
 # Recent News
+* 08/22/2023. One paper was accepted to **Machine Learning and Knowledge Extraction**.
+* 08/11/2023. One paper was accepted to **The 32nd ACM International Conference on Information and Knowledge Management (CIKM) 2023**.
+* 07/14/2023. One paper was accepted to **ICCV 2023**.
+* 06/23/2023. One paper was accepted to **Energies**.
 * 03/17/2023. One paper was accepted to **The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Network (IEEE IFIP DSN 2023)**.
 * 02/27/2023. One paper was accepted to **CVPR 2023** as a **highlight**.
-* 12/26/2022. Two papers was accepted to **SIAM International Conference on Data Mining (SDM 2023)**.
+* 12/26/2022. Two papers were accepted to **SIAM International Conference on Data Mining (SDM 2023)**.
 * 11/24/2022. One paper was accepted to **IEEE Transactions on Medical Robotics and Bionics**.
 * 11/09/2022. Two papers were accepted to **Orthopaedic Research Society (ORS) Annual Meeting, 2023**.
 * 11/01/2022. Invited as a member of the Scientific Program Committee for [the 10th IEEE Swiss Conference on Data Science (SDS2023)](https://www.sds2022.ch)
