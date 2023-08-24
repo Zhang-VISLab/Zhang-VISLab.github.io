@@ -5,11 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
-To date, I have published **3 PAMI, 1 IJCV, 4 NIPS, 1 ICLR, 10 CVPR, 5 ICCV, 4 ECCV, 2 MM, 3 ICDM, 1 IROS, 1 ICRA, 1 CDC, 36 in total**. All my publications can be downloaded from [my Google Scholar profile](https://scholar.google.com/citations?user=2yqx3oIAAAAJ&hl=en). Please send me an email with any problem.
+To date, I have published **3 PAMI, 1 IJCV, 4 NIPS, 1 ICLR, 10 CVPR, 6 ICCV, 4 ECCV, 2 MM, 3 ICDM, 1 IROS, 1 ICRA, 1 CDC, 37 in total**. All my publications can be downloaded from [my Google Scholar profile](https://scholar.google.com/citations?user=2yqx3oIAAAAJ&hl=en). Please send me an email with any problem.
 
 ---
 # 2023
-P81. M. Caner Tol, Saad Islam, Andrew J. Adiletta, Berk Sunar, and Ziming Zhang. **Don’t Knock! Rowhammer at the Backdoor of DNN Models.** *In Proceeding of The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Network (IEEE IFIP DSN), 2023*
+P85. Nicholas Josselyn, Biao Yin, Thomas Considine, John Kelley, Berend Rinderspacher, Robert Jensen, James F Snyder, Walter Gerych, Ziming Zhang, and Elke Rundensteiner. **Learning to Adapt Deep Corrosion Assessment Models from Indoor to Outdoor Image Domains.** *In Machine Learning and Knowledge Extraction, 2023.*
+
+P84. Biao Yin, Nicholas Josselyn, Ziming Zhang, Elke Rundensteiner, Thomas Considine, John Kelley, Berend Rinderspacher, Robert Jensen and James Snyder. **MOSS: AI Platform for Discovery of Corrosion-Resistant Materials.** *In Proceeding of The 32nd ACM International Conference on Information and Knowledge Management (CIKM), 2023.*
+
+P83. Fangzhou Lin, Yun Yue, Songlin Hou, Xuechu Yu, Yajun Xu, Kazunori D Yamada, and Ziming Zhang. **Hyperbolic Chamfer Distance for Point Cloud Completion.** *In Proceeding of International Conference on Computer Vision (ICCV), 2021.*
+
+P82. Evan Emil Sauter, Maqsood Ali Mughal, and Ziming Zhang. **Evaluation of Machine Learning Methods on Large-Scale Spatio-temporal 
+Data for Photovoltaic Power Prediction.** *In Energies, 2023.*
+
+P81. M. Caner Tol, Saad Islam, Andrew J. Adiletta, Berk Sunar, and Ziming Zhang. **Don’t Knock! Rowhammer at the Backdoor of DNN Models.** *In Proceeding of The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Network (IEEE IFIP DSN), 2023.*
 
 P80. Yiqing Zhang, Xinming Huang, and Ziming Zhang. **PRISE: Demystifying Deep Lucas-Kanade with Strongly Star-Convex Constraints for Multimodel Image Alignment.** *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2023.* **(a highlight paper)**
 
