@@ -13,7 +13,7 @@ P85. Nicholas Josselyn, Biao Yin, Thomas Considine, John Kelley, Berend Rindersp
 
 P84. Biao Yin, Nicholas Josselyn, Ziming Zhang, Elke Rundensteiner, Thomas Considine, John Kelley, Berend Rinderspacher, Robert Jensen and James Snyder. **MOSS: AI Platform for Discovery of Corrosion-Resistant Materials.** *In Proceeding of The 32nd ACM International Conference on Information and Knowledge Management (CIKM), 2023.*
 
-P83. Fangzhou Lin, Yun Yue, Songlin Hou, Xuechu Yu, Yajun Xu, Kazunori D Yamada, and Ziming Zhang. **Hyperbolic Chamfer Distance for Point Cloud Completion.** *In Proceeding of International Conference on Computer Vision (ICCV), 2021.*
+P83. Fangzhou Lin, Yun Yue, Songlin Hou, Xuechu Yu, Yajun Xu, Kazunori D Yamada, and Ziming Zhang. **Hyperbolic Chamfer Distance for Point Cloud Completion.** *In Proceeding of International Conference on Computer Vision (ICCV), 2023.*
 
 P82. Evan Emil Sauter, Maqsood Ali Mughal, and Ziming Zhang. **Evaluation of Machine Learning Methods on Large-Scale Spatio-temporal 
 Data for Photovoltaic Power Prediction.** *In Energies, 2023.*
