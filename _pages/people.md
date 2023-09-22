@@ -13,18 +13,16 @@ author_profile: true
 # PhD 
 * Biao Yin, 2020-now (Co-supervised with Prof. Elke A Rundensteiner in Data Science at WPI)
 * [Yun Yue](https://yunyuny.com/), 2020-now, MS from DS @ WPI
-* Yuping Shao, 2021-now, MS from CS @ Georgia Institute of Technology
-* Yiqing Zhang, 2021-now, MS from DS @ WPI
 * Xuechu Yu, 2021-now, MS from Electrical and Electronic Engineering @ Huazhong University of Science and Technology (HUST), China
 
 # Master 
-* [Avnish Gupta](https://avnishgupta143.github.io/portfolio/), 2021-now
-* [Pratyush Kumar Sahoo](https://pks-97.github.io/), 2021-now
 * Amey Kulkarni (2020), now at Bastian Solutions
 * Nikhil Jonnavithula (2021), now at Analog Devices
+* Yuping Shao (2021-2023)
 
 # Undergraduate
-* Prudence Lam, 2022-now
+* Prudence Lam (2022-2023), now at Northeastern University.
+* Haotian Liu (2023-now)
 
 # Visiting Scholar
 * [Ce Zheng](https://zczcwh.github.io), 2019-2020, MS from EE @ Tufts University, now pursuing PhD at NC State University (NCSU)
