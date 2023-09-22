@@ -9,6 +9,8 @@ To date, I have published **3 PAMI, 1 IJCV, 4 NIPS, 1 ICLR, 10 CVPR, 6 ICCV, 4 E
 
 ---
 # 2023
+P86. Ziming Zhang, Fangzhou Lin, Yun Yue, Songlin Hou, Kazunori Yamada, Vijaya B. Kolachalama, and Venkatesh Saligrama. **InfoCD: A Contrastive Chamfer Distance Loss for Point Cloud Completion.** *In Proceeding of Advances in Neural Information Processing Systems (NeurIPS), 2023.*
+
 P85. Nicholas Josselyn, Biao Yin, Thomas Considine, John Kelley, Berend Rinderspacher, Robert Jensen, James F Snyder, Walter Gerych, Ziming Zhang, and Elke Rundensteiner. **Learning to Adapt Deep Corrosion Assessment Models from Indoor to Outdoor Image Domains.** *In Machine Learning and Knowledge Extraction, 2023.*
 
 P84. Biao Yin, Nicholas Josselyn, Ziming Zhang, Elke Rundensteiner, Thomas Considine, John Kelley, Berend Rinderspacher, Robert Jensen and James Snyder. **MOSS: AI Platform for Discovery of Corrosion-Resistant Materials.** *In Proceeding of The 32nd ACM International Conference on Information and Knowledge Management (CIKM), 2023.*
