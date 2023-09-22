@@ -26,6 +26,7 @@ I am an assistant professor at Worcester Polytechnic Institute. Before joining W
 ---
 
 # Recent News
+* 09/21/2023. One paper was accepted to **NeurIPS 2023**.
 * 08/22/2023. One paper was accepted to **Machine Learning and Knowledge Extraction**.
 * 08/11/2023. One paper was accepted to **The 32nd ACM International Conference on Information and Knowledge Management (CIKM) 2023**.
 * 07/14/2023. One paper was accepted to **ICCV 2023**.
