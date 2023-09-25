@@ -14,6 +14,7 @@ author_profile: true
 * Biao Yin, 2020-now (Co-supervised with Prof. Elke A Rundensteiner in Data Science at WPI)
 * [Yun Yue](https://yunyuny.com/), 2020-now, MS from DS @ WPI
 * Xuechu Yu, 2021-now, MS from Electrical and Electronic Engineering @ Huazhong University of Science and Technology (HUST), China
+* Hangrui Zhang, 2023-now, BS from Wuhan University, China
 
 # Master 
 * Amey Kulkarni (2020), now at Bastian Solutions
