@@ -11,7 +11,7 @@ To date, I have published **3 PAMI, 1 IJCV, 5 NIPS, 1 ICLR, 10 CVPR, 6 ICCV, 4 E
 # 2023
 P87. Biao Yin, Nicholas Josselyn, Thomas Considine, John Kelley, Berend Rinderspacher, Robert Jensen, James Snyder, Ziming Zhang, and Elke Rundensteiner. **DeepSC-Edge: Scientific Corrosion Segmentation with Edge-Guided and Class-Balanced Losses.** *In Proceeding of IEEE International Conference on Machine Learning and Applications (ICMLA), 2023.*
 
-P86. Ziming Zhang, Fangzhou Lin, Yun Yue, Songlin Hou, Kazunori Yamada, Vijaya B. Kolachalama, and Venkatesh Saligrama. **InfoCD: A Contrastive Chamfer Distance Loss for Point Cloud Completion.** *In Proceeding of Advances in Neural Information Processing Systems (NeurIPS), 2023.*
+P86. Fangzhou Lin\*, Yun Yue\*, Ziming Zhang, Songlin Hou, Kazunori Yamada, Vijaya B. Kolachalama, and Venkatesh Saligrama. **InfoCD: A Contrastive Chamfer Distance Loss for Point Cloud Completion.** *In Proceeding of Advances in Neural Information Processing Systems (NeurIPS), 2023.*
 
 P85. Nicholas Josselyn, Biao Yin, Thomas Considine, John Kelley, Berend Rinderspacher, Robert Jensen, James F Snyder, Walter Gerych, Ziming Zhang, and Elke Rundensteiner. **Learning to Adapt Deep Corrosion Assessment Models from Indoor to Outdoor Image Domains.** *In Machine Learning and Knowledge Extraction, 2023.*
 
