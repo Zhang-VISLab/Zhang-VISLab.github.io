@@ -8,6 +8,11 @@ author_profile: true
 To date, I have published **3 PAMI, 1 IJCV, 5 NIPS, 1 ICLR, 10 CVPR, 6 ICCV, 4 ECCV, 2 MM, 3 ICDM, 1 IROS, 1 ICRA, 1 CDC, 38 in total**. All my publications can be downloaded from [my Google Scholar profile](https://scholar.google.com/citations?user=2yqx3oIAAAAJ&hl=en). Please send me an email with any problem.
 
 ---
+# 2024
+P89. Rabeeh Majidi, Vahid Entezari, Ziming Zhang, and Ali Kiapour. **Tailored Shoulder Rehabilitation: Patient-specific Sizing Of Ai-driven Wearable Brace Forenhanced Orthopedic Care.** *In Proceeding of Orthopaedic Research Society (ORS) Annual Meeting, 2024.* 
+
+P88. Yun Yue, Fangzhou Lin, Guanyi Mou, and Ziming Zhang. **Understanding Hyperbolic Metric Learning through Hard Negative Sampling.** *In Proceeding of Winter Conference on Applications of Computer Vision (WACV), 2024.*
+
 # 2023
 P87. Biao Yin, Nicholas Josselyn, Thomas Considine, John Kelley, Berend Rinderspacher, Robert Jensen, James Snyder, Ziming Zhang, and Elke Rundensteiner. **DeepSC-Edge: Scientific Corrosion Segmentation with Edge-Guided and Class-Balanced Losses.** *In Proceeding of IEEE International Conference on Machine Learning and Applications (ICMLA), 2023.*
 
