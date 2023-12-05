@@ -9,16 +9,14 @@ To date, I have published **3 PAMI, 1 IJCV, 5 NIPS, 1 ICLR, 10 CVPR, 6 ICCV, 4 E
 
 ---
 # 2024
-P89. Rabeeh Majidi, Vahid Entezari, Ziming Zhang, and Ali Kiapour. **Tailored Shoulder Rehabilitation: Patient-specific Sizing Of Ai-driven Wearable Brace Forenhanced Orthopedic Care.** *In Proceeding of Orthopaedic Research Society (ORS) Annual Meeting, 2024.* 
+P88. Rabeeh Majidi, Vahid Entezari, Ziming Zhang, and Ali Kiapour. **Tailored Shoulder Rehabilitation: Patient-specific Sizing Of Ai-driven Wearable Brace Forenhanced Orthopedic Care.** *In Proceeding of Orthopaedic Research Society (ORS) Annual Meeting, 2024.* 
 
-P88. Yun Yue, Fangzhou Lin, Guanyi Mou, and Ziming Zhang. **Understanding Hyperbolic Metric Learning through Hard Negative Sampling.** *In Proceeding of Winter Conference on Applications of Computer Vision (WACV), 2024.*
+P87. Yun Yue, Fangzhou Lin, Guanyi Mou, and Ziming Zhang. **Understanding Hyperbolic Metric Learning through Hard Negative Sampling.** *In Proceeding of Winter Conference on Applications of Computer Vision (WACV), 2024.*
 
 # 2023
-P87. Biao Yin, Nicholas Josselyn, Thomas Considine, John Kelley, Berend Rinderspacher, Robert Jensen, James Snyder, Ziming Zhang, and Elke Rundensteiner. **DeepSC-Edge: Scientific Corrosion Segmentation with Edge-Guided and Class-Balanced Losses.** *In Proceeding of IEEE International Conference on Machine Learning and Applications (ICMLA), 2023.*
+P86. Biao Yin, Nicholas Josselyn, Thomas Considine, John Kelley, Berend Rinderspacher, Robert Jensen, James Snyder, Ziming Zhang, and Elke Rundensteiner. **DeepSC-Edge: Scientific Corrosion Segmentation with Edge-Guided and Class-Balanced Losses.** *In Proceeding of IEEE International Conference on Machine Learning and Applications (ICMLA), 2023.*
 
-P86. Fangzhou Lin\*, Yun Yue\*, Ziming Zhang, Songlin Hou, Kazunori Yamada, Vijaya B. Kolachalama, and Venkatesh Saligrama. **InfoCD: A Contrastive Chamfer Distance Loss for Point Cloud Completion.** *In Proceeding of Advances in Neural Information Processing Systems (NeurIPS), 2023.*
-
-P85. Nicholas Josselyn, Biao Yin, Thomas Considine, John Kelley, Berend Rinderspacher, Robert Jensen, James F Snyder, Walter Gerych, Ziming Zhang, and Elke Rundensteiner. **Learning to Adapt Deep Corrosion Assessment Models from Indoor to Outdoor Image Domains.** *In Machine Learning and Knowledge Extraction, 2023.*
+P85. Fangzhou Lin\*, Yun Yue\*, Ziming Zhang, Songlin Hou, Kazunori Yamada, Vijaya B. Kolachalama, and Venkatesh Saligrama. **InfoCD: A Contrastive Chamfer Distance Loss for Point Cloud Completion.** *In Proceeding of Advances in Neural Information Processing Systems (NeurIPS), 2023.*
 
 P84. Biao Yin, Nicholas Josselyn, Ziming Zhang, Elke Rundensteiner, Thomas Considine, John Kelley, Berend Rinderspacher, Robert Jensen and James Snyder. **MOSS: AI Platform for Discovery of Corrosion-Resistant Materials.** *In Proceeding of The 32nd ACM International Conference on Information and Knowledge Management (CIKM), 2023.*
 
