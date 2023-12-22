@@ -26,6 +26,7 @@ I am an assistant professor at Worcester Polytechnic Institute. Before joining W
 ---
 
 # Recent News
+* 12/20/2023. One paper was accepted to **International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2024**.
 * 12/05/2023. One paper was accepted to **World Scientific Annual Review of Artificial Intelligence, 2023**.
 * 09/28/2023. One paper was accepted to **IEEE International Conference on Machine Learning and Applications (ICMLA 2023)**.
 * 09/21/2023. One paper was accepted to **NeurIPS 2023**.
