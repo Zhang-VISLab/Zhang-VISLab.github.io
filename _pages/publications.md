@@ -9,6 +9,8 @@ To date, I have published **3 PAMI, 1 IJCV, 5 NIPS, 1 ICLR, 10 CVPR, 6 ICCV, 4 E
 
 ---
 # 2024
+P90. Kaifeng Zhang, Rui Zhao, Ziming Zhang, and Yang Gao. **Auto-Encoding Adversarial Imitation Learning.** *In Proceeding of International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2024.*
+
 P89. Rabeeh Majidi, Vahid Entezari, Ziming Zhang, and Ali Kiapour. **Tailored Shoulder Rehabilitation: Patient-specific Sizing Of Ai-driven Wearable Brace Forenhanced Orthopedic Care.** *In Proceeding of Orthopaedic Research Society (ORS) Annual Meeting, 2024.* 
 
 P88. Yun Yue, Fangzhou Lin, Guanyi Mou, and Ziming Zhang. **Understanding Hyperbolic Metric Learning through Hard Negative Sampling.** *In Proceeding of Winter Conference on Applications of Computer Vision (WACV), 2024.*
