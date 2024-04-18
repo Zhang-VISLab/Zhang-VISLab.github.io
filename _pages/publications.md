@@ -9,6 +9,8 @@ To date, I have published **3 PAMI, 1 IJCV, 5 NIPS, 1 ICLR, 10 CVPR, 6 ICCV, 4 E
 
 ---
 # 2024
+P91. Guanyi Mo, Yun Yue, Kyumin Lee, and Ziming Zhang. **Wildlife Product Trading in Online Social Networks: A Case Study on Ivory-Rlated Product Sales Promotion Posts.** *In Proceeding of International AAAI COnference on Web and Social Media (ICWSM), 2024.*
+
 P90. Kaifeng Zhang, Rui Zhao, Ziming Zhang, and Yang Gao. **Auto-Encoding Adversarial Imitation Learning.** *In Proceeding of International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2024.*
 
 P89. Rabeeh Majidi, Vahid Entezari, Ziming Zhang, and Ali Kiapour. **Tailored Shoulder Rehabilitation: Patient-specific Sizing Of Ai-driven Wearable Brace Forenhanced Orthopedic Care.** *In Proceeding of Orthopaedic Research Society (ORS) Annual Meeting, 2024.* 
