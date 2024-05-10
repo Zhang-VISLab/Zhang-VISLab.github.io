@@ -9,35 +9,37 @@ To date, I have published **3 PAMI, 1 IJCV, 5 NIPS, 1 ICLR, 10 CVPR, 6 ICCV, 4 E
 
 ---
 # 2024
-P91. Guanyi Mo, Yun Yue, Kyumin Lee, and Ziming Zhang. **Wildlife Product Trading in Online Social Networks: A Case Study on Ivory-Rlated Product Sales Promotion Posts.** *In Proceeding of International AAAI COnference on Web and Social Media (ICWSM), 2024.*
+P92. Guanyi Mo, Yun Yue, Kyumin Lee, and Ziming Zhang. **Wildlife Product Trading in Online Social Networks: A Case Study on Ivory-Rlated Product Sales Promotion Posts.** *In Proceeding of International AAAI COnference on Web and Social Media (ICWSM), 2024.*
 
-P90. Kaifeng Zhang, Rui Zhao, Ziming Zhang, and Yang Gao. **Auto-Encoding Adversarial Imitation Learning.** *In Proceeding of International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2024.*
+P91. Kaifeng Zhang, Rui Zhao, Ziming Zhang, and Yang Gao. **Auto-Encoding Adversarial Imitation Learning.** *In Proceeding of International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2024.*
 
-P89. Rabeeh Majidi, Vahid Entezari, Ziming Zhang, and Ali Kiapour. **Tailored Shoulder Rehabilitation: Patient-specific Sizing Of Ai-driven Wearable Brace Forenhanced Orthopedic Care.** *In Proceeding of Orthopaedic Research Society (ORS) Annual Meeting, 2024.* 
+P90. Rabeeh Majidi, Vahid Entezari, Ziming Zhang, and Ali Kiapour. **Tailored Shoulder Rehabilitation: Patient-specific Sizing Of Ai-driven Wearable Brace Forenhanced Orthopedic Care.** *In Proceeding of Orthopaedic Research Society (ORS) Annual Meeting, 2024.* 
 
-P88. Yun Yue, Fangzhou Lin, Guanyi Mou, and Ziming Zhang. **Understanding Hyperbolic Metric Learning through Hard Negative Sampling.** *In Proceeding of Winter Conference on Applications of Computer Vision (WACV), 2024.*
+P89. Yun Yue, Fangzhou Lin, Guanyi Mou, and Ziming Zhang. **Understanding Hyperbolic Metric Learning through Hard Negative Sampling.** *In Proceeding of Winter Conference on Applications of Computer Vision (WACV), 2024.*
 
 # 2023
-P87. Ziming Zhang, Kaidong Li, and Guanghui Wang. **Robust Structured Declarative Classifiers for Point Clouds.** *In World Scientific Annual Review of Artificial Intelligence, 2023.*
+P88. Ziming Zhang, Kaidong Li, and Guanghui Wang. **Robust Structured Declarative Classifiers for Point Clouds.** *In World Scientific Annual Review of Artificial Intelligence, 2023.*
 
-P86. Biao Yin, Nicholas Josselyn, Thomas Considine, John Kelley, Berend Rinderspacher, Robert Jensen, James Snyder, Ziming Zhang, and Elke Rundensteiner. **DeepSC-Edge: Scientific Corrosion Segmentation with Edge-Guided and Class-Balanced Losses.** *In Proceeding of IEEE International Conference on Machine Learning and Applications (ICMLA), 2023.*
+P87. Biao Yin, Nicholas Josselyn, Thomas Considine, John Kelley, Berend Rinderspacher, Robert Jensen, James Snyder, Ziming Zhang, and Elke Rundensteiner. **DeepSC-Edge: Scientific Corrosion Segmentation with Edge-Guided and Class-Balanced Losses.** *In Proceeding of IEEE International Conference on Machine Learning and Applications (ICMLA), 2023.*
 
-P85. Fangzhou Lin\*, Yun Yue\*, Ziming Zhang, Songlin Hou, Kazunori Yamada, Vijaya B. Kolachalama, and Venkatesh Saligrama. **InfoCD: A Contrastive Chamfer Distance Loss for Point Cloud Completion.** *In Proceeding of Advances in Neural Information Processing Systems (NeurIPS), 2023.*
+P86. Fangzhou Lin\*, Yun Yue\*, Ziming Zhang, Songlin Hou, Kazunori Yamada, Vijaya B. Kolachalama, and Venkatesh Saligrama. **InfoCD: A Contrastive Chamfer Distance Loss for Point Cloud Completion.** *In Proceeding of Advances in Neural Information Processing Systems (NeurIPS), 2023.*
 
-P84. Biao Yin, Nicholas Josselyn, Ziming Zhang, Elke Rundensteiner, Thomas Considine, John Kelley, Berend Rinderspacher, Robert Jensen and James Snyder. **MOSS: AI Platform for Discovery of Corrosion-Resistant Materials.** *In Proceeding of The 32nd ACM International Conference on Information and Knowledge Management (CIKM), 2023.*
+P85. Biao Yin, Nicholas Josselyn, Ziming Zhang, Elke Rundensteiner, Thomas Considine, John Kelley, Berend Rinderspacher, Robert Jensen and James Snyder. **MOSS: AI Platform for Discovery of Corrosion-Resistant Materials.** *In Proceeding of The 32nd ACM International Conference on Information and Knowledge Management (CIKM), 2023.*
 
-P83. Fangzhou Lin, Yun Yue, Songlin Hou, Xuechu Yu, Yajun Xu, Kazunori D Yamada, and Ziming Zhang. **Hyperbolic Chamfer Distance for Point Cloud Completion.** *In Proceeding of International Conference on Computer Vision (ICCV), 2023.*
+P84. Fangzhou Lin, Yun Yue, Songlin Hou, Xuechu Yu, Yajun Xu, Kazunori D Yamada, and Ziming Zhang. **Hyperbolic Chamfer Distance for Point Cloud Completion.** *In Proceeding of International Conference on Computer Vision (ICCV), 2023.*
 
-P82. Evan Emil Sauter, Maqsood Ali Mughal, and Ziming Zhang. **Evaluation of Machine Learning Methods on Large-Scale Spatio-temporal 
+P83. Evan Emil Sauter, Maqsood Ali Mughal, and Ziming Zhang. **Evaluation of Machine Learning Methods on Large-Scale Spatio-temporal 
 Data for Photovoltaic Power Prediction.** *In Energies, 2023.*
 
-P81. M. Caner Tol, Saad Islam, Andrew J. Adiletta, Berk Sunar, and Ziming Zhang. **Don’t Knock! Rowhammer at the Backdoor of DNN Models.** *In Proceeding of The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Network (IEEE IFIP DSN), 2023.*
+P82. M. Caner Tol, Saad Islam, Andrew J. Adiletta, Berk Sunar, and Ziming Zhang. **Don’t Knock! Rowhammer at the Backdoor of DNN Models.** *In Proceeding of The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Network (IEEE IFIP DSN), 2023.*
 
-P80. Yiqing Zhang, Xinming Huang, and Ziming Zhang. **PRISE: Demystifying Deep Lucas-Kanade with Strongly Star-Convex Constraints for Multimodel Image Alignment.** *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2023.* **(a highlight paper)**
+P81. Yiqing Zhang, Xinming Huang, and Ziming Zhang. **PRISE: Demystifying Deep Lucas-Kanade with Strongly Star-Convex Constraints for Multimodel Image Alignment.** *In Proceeding of Computer Vision and Pattern Recognition (CVPR), 2023.* **(a highlight paper)**
 
-P79. Yingxue Zhang, Yanhua Li, Xun Zhou, Ziming Zhang, and Jun Luo. **STM-GAIL: Spatial-Temporal Meta-GAIL for Learning Diverse Human Driving Strategies.** *In Proceeding of SIAM International Conference on Data Mining (SDM), 2023.*
+P80. Yingxue Zhang, Yanhua Li, Xun Zhou, Ziming Zhang, and Jun Luo. **STM-GAIL: Spatial-Temporal Meta-GAIL for Learning Diverse Human Driving Strategies.** *In Proceeding of SIAM International Conference on Data Mining (SDM), 2023.*
 
-P78. Xin Zhang, Yanhua Li, Ziming Zhang, and Zhi-Li Zhang. **Domain Disentangled Meta-Learning.** *In Proceeding of SIAM International Conference on Data Mining (SDM), 2023.*
+P79. Xin Zhang, Yanhua Li, Ziming Zhang, and Zhi-Li Zhang. **Domain Disentangled Meta-Learning.** *In Proceeding of SIAM International Conference on Data Mining (SDM), 2023.*
+
+P78. Xin Zhang, Yanhua Li, Ziming Zhang, Christopher G. Brinton, Zhenming Liu, and Zhi-Li Zhang. **Distributional Cloning for Stabilized Imitation Learning via ADMM.** *In IEEE International Conference on Data Mining (ICDM), pp. 818-827, 2023.*
 
 P77. Rabeeh Majidi, Mehdi Ghasemi, Ziming Zhang, Edward A. Clancy, Vahid Entezari, and Ali Kiapour. **AI-based Wearable Device For Tracking Shoulder Joint Kinematics And Muscle Activity In Subjects With Fshd Disease.** *In Proceeding of Orthopaedic Research Society (ORS) Annual Meeting, 2023.*
 
