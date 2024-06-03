@@ -47,10 +47,9 @@ P76. Rabeeh Majidi, Vahid Entezari, Ziming Zhang, Edward A. Clancy, and Ali Kiap
 
 P75. Guojun Wu, Xin Zhang, Ziming Zhang, Yanhua Li, Xun Zhou, Christopher Brinton, and Zhenming Liu. **Learning Lightweight Neural Networks via Channel-Split Recurrent Convolution.** *In Proceeding of Winter Conference on Applications of Computer Vision (WACV), 2023.*
 
+P74. Keshav Bimbraw, Christopher Nycz, Matthew Schueler, Ziming Zhang, and Haichong Zhang. **Simultaneous Estimation of Hand Configurations and Finger Joint Angles using Forearm Ultrasound.** *In IEEE Transactions on Medical Robotics and Bionics, 2023.*
+
 # 2022
-P74. Keshav Bimbraw, Christopher Nycz, Matthew Schueler, Ziming Zhang, and Haichong Zhang. **Simultaneous Estimation of Hand Configurations and Finger Joint Angles using Forearm Ultrasound.** *In IEEE Transactions on Medical Robotics and Bionics, 2022.*
-
-
 P73. Nicholas Josselyn, Biao Yin, Ziming Zhang, and Elke Rundensteiner. **An Empirical Study of Domain Adaptation: Are We Really Learning Transferable Representations?** *In Proceeding of IEEE International Conference on Big Data Special session MLBD, 2022.*
 
 P72. Nicholas Josselyn, Biao Yin, Thomas Considine, John Kelley, Berend Rinderspacher, Robert Jensen, James Snyder, Ziming Zhang, and Elke Rundensteiner. **Transferring Indoor Corrosion Image Assessment Models to Outdoor Images via Domain Adaptation.** *In Proceeding of IEEE International Conference on Machine Learning and Applications (ICMLA), 2022.*
