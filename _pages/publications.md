@@ -9,6 +9,8 @@ To date, I have published **3 PAMI, 1 IJCV, 5 NIPS, 1 ICLR, 10 CVPR, 6 ICCV, 4 E
 
 ---
 # 2024
+P93. Fangzhou Lin$^{*}$, Haotian Liu$^{*}$, Haoying Zhou$^{*}$, Songlin Hou$^{*}$, Kazunori D Yamada, Gregory S. Fischer, Yanhua Li, Haichong K. Zhang, and Ziming Zhang. **Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance.** *In Proceeding of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024.* **(oral)**
+
 P92. Guanyi Mo, Yun Yue, Kyumin Lee, and Ziming Zhang. **Wildlife Product Trading in Online Social Networks: A Case Study on Ivory-Rlated Product Sales Promotion Posts.** *In Proceeding of International AAAI COnference on Web and Social Media (ICWSM), 2024.*
 
 P91. Kaifeng Zhang, Rui Zhao, Ziming Zhang, and Yang Gao. **Auto-Encoding Adversarial Imitation Learning.** *In Proceeding of International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2024.*
