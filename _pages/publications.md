@@ -9,6 +9,8 @@ To date, I have published **3 PAMI, 1 IJCV, 5 NIPS, 1 ICLR, 10 CVPR, 6 ICCV, 4 E
 
 ---
 # 2024
+P94. Xihan Ma, Mingjie Zeng, Jeffrey C. Hill, Beatrice Hoffmann, Ziming Zhang, and Haichong K. Zhang. **Guiding the Last Centimeter: Novel Anatomy-Aware Probe Servoing for Standardized Imaging Plane Navigation in Robotic Lung Ultrasound.** *In IEEE Transactions on Automation Science and Engineering (TASE), 2024.*
+
 P93. Fangzhou Lin\*, Haotian Liu\*, Haoying Zhou\*, Songlin Hou\*, Kazunori D Yamada, Gregory S. Fischer, Yanhua Li, Haichong K. Zhang, and Ziming Zhang. **Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance.** *In Proceeding of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024.* **(oral)**
 
 P92. Guanyi Mo, Yun Yue, Kyumin Lee, and Ziming Zhang. **Wildlife Product Trading in Online Social Networks: A Case Study on Ivory-Rlated Product Sales Promotion Posts.** *In Proceeding of International AAAI COnference on Web and Social Media (ICWSM), 2024.*
